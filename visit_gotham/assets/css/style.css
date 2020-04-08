@@ -105,7 +105,26 @@ footer{
 
 .contact-info{
     font-family: 'Ubuntu';
-    padding-top:30px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: rgb(153, 153, 153);
+}
+
+.social-networks li{
+  display: inline;
+}
+
+.social-networks i{
+  font-size: 160%;
+  margin: 1%;
+  padding: 5%;
+  color: rgb(190, 188, 54);
+}
+
+.partners{
+    font-family: 'Ubuntu';
+    padding-top:5px;
     padding-bottom: 30px;
     text-align: center;
     color: rgb(153, 153, 153);
