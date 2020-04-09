@@ -13,7 +13,7 @@ body{
 #logo{
     display: block;
     float: left;
-    height: 90px;
+    height: 80px;
     width: auto;
     margin-left: 30px;
     margin-top: 15px;
@@ -23,8 +23,6 @@ body{
 #navmenu{
   font-size: 135%;
   list-style-type: none;
-  margin: 0;
-  padding: 0;
   padding-left: 50px;
 }
 
@@ -104,28 +102,52 @@ footer{
 }
 
 .contact-info{
+    background-color: rgb(80, 80, 80);
     font-family: 'Ubuntu';
     padding-top: 30px;
-    padding-bottom: 10px;
     text-align: center;
     color: rgb(153, 153, 153);
+    margin-bottom: 30px;
+}
+
+.contact-info p{
+    margin-bottom: 30px;
 }
 
 .social-networks li{
-  display: inline;
+    display: inline;
 }
 
 .social-networks i{
-  font-size: 160%;
-  margin: 1%;
-  padding: 5%;
-  color: rgb(190, 188, 54);
+    font-size: 230%;
+    margin: 20px;
+    padding: 10px;
+    color: rgb(190, 188, 54);
 }
 
 .partners{
     font-family: 'Ubuntu';
-    padding-top:5px;
-    padding-bottom: 30px;
     text-align: center;
     color: rgb(153, 153, 153);
 }
+
+.companies{
+    padding: 30px;
+}
+
+.companies p{
+    font-family: 'Ubuntu';
+    color: rgb(153, 153, 153);
+    display: inline;
+    margin: 15px;
+    padding: 15px;
+    line-height: 30px;
+}
+
+.companies a{
+    text-decoration: none;
+    color: inherit;
+    line-height: 30px;
+}
+
+/* End of Footer */
