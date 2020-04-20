@@ -89,10 +89,34 @@ header{
 
 /* Landing Page */
 
+.hero-container{
+    padding-bottom: 20px;
+}
+
 .hero-image img{
     background-position: center;
     width: 100%;
     height: auto;
+}
+
+.hero-container h1{
+    text-align: center;
+    font-weight: 200;
+    font-size: 40px;
+    color: #000000;
+    margin: 50px;
+}
+
+.things-to-do{
+    text-align: center;
+    font-family: 'Ubuntu';
+    background-color: rgb(236, 236, 236);
+}
+
+.things-to-do h1{
+    margin: 30px;
+    font-size: 50px;
+    font-weight: 200;
 }
 
 
