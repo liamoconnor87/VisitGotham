@@ -122,24 +122,41 @@ header{
 }
 
 .things-cont {
-    margin: 0 auto;
-    width: 100%;
-}
-
-.things-cont a{
-    width: 100%;
-    margin: 0 auto;
-    padding-left: 7.5px;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .things-cont img{
+    padding: 5px;
+    height: 199px;
+}
+
+.city-info{
+    background-color: rgb(60, 143, 102);
+    padding: 30px;
+}
+
+.city-info h1{
     text-align: center;
-    position: relative;
-    float: none;
-    margin: 0 auto;
-    height: 15em;
-    width: auto;
-    padding: 10px;
+    font-family: 'Ubuntu';
+    padding: 10px 10px 30px 10px;
+    font-size: 50px;
+    font-weight: 200;
+}
+
+.history{
+    background-color: rgb(173, 155, 48);
+    padding: 30px;
+}
+
+.history h1{
+    text-align: center;
+    font-family: 'Ubuntu';
+    padding: 10px 10px 30px 10px;
+    font-size: 50px;
+    font-weight: 200;
 }
 
 /* End of Landing Page */
