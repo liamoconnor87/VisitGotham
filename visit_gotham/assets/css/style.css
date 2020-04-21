@@ -108,6 +108,8 @@ header{
     margin: 50px;
 }
 
+/* Landing Page - Things to Do  */
+
 .things-to-do{
     margin-top: 30px;
     background-color: rgb(236, 236, 236);
@@ -122,8 +124,6 @@ header{
     font-weight: 200;
 }
 
-/* Things to Do Landing Page */
-
 .row {
     
     width: 80%;
@@ -131,22 +131,44 @@ header{
     margin-right: auto;
     display: flex;
     flex-wrap: wrap;
-    padding: 0;
 }
 
 .column {
     flex: 33.33%;
     max-width: 33.33%;
-    padding: 0;
+    padding: 0 15px 0 15px;
 }
 
 .column img {
     vertical-align: middle;
     width: 100%;
-    padding: 0 5px 0 5px;
 }
 
-/* End of Things to Do Landing Page */
+.column h2{
+    padding: 8px;
+    text-align: center;
+    font-family: 'Ubuntu';
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(131, 26, 12);
+}
+
+.column h2:hover{
+    background-color: rgb(173, 155, 48);
+}
+
+.column a{
+    text-decoration: none;
+}
+
+.row-margin{
+    margin-bottom: 30px;
+}
+
+/* Landing Page - Things to Do - END */
 
 .city-info{
     background-color: rgb(60, 143, 102);
