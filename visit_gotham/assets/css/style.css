@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   border:0;
+  box-sizing: border-box;
 }
 
 body{
@@ -121,17 +122,31 @@ header{
     font-weight: 200;
 }
 
-.things-cont {
-    position: relative;
-    display: block;
+/* Things to Do Landing Page */
+
+.row {
+    
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
 }
 
-.things-cont img{
-    padding: 5px;
-    height: 199px;
+.column {
+    flex: 33.33%;
+    max-width: 33.33%;
+    padding: 0;
 }
+
+.column img {
+    vertical-align: middle;
+    width: 100%;
+    padding: 0 5px 0 5px;
+}
+
+/* End of Things to Do Landing Page */
 
 .city-info{
     background-color: rgb(60, 143, 102);
