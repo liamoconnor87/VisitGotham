@@ -9,7 +9,7 @@ body{
     font-family: 'Libre Baskerville', serif;
 }
 
-/* Header Navigation Bar */
+/* Header - Navigation Bar */
 
 header{
     display: block;
@@ -86,12 +86,12 @@ header{
     }
 }
 
-/* End of Header Navigation Bar */
+/* End of Header - Navigation Bar */
 
 
 /* Landing Page */
 
-.hero-image, .hero-container{
+.relative{
     position: relative;
 }
 
@@ -125,7 +125,6 @@ header{
 }
 
 .row{
-    
     width: 80%;
     margin-left: auto;
     margin-right: auto;
@@ -171,6 +170,8 @@ header{
 /* Landing Page - Things to Do - END */
 
 
+/* Landing Page - City Info */
+
 .city-info{
     background-color: rgb(255, 255, 255);
     padding-bottom: 40px;
@@ -185,7 +186,6 @@ header{
 }
 
 .row2{
-    
     width: 80%;
     margin-left: auto;
     margin-right: auto;
@@ -224,6 +224,10 @@ header{
     text-decoration: none;
 }
 
+/* Landing Page - City Info - END */
+
+/* Landing Page - History */
+
 .history{
     background-color: rgba(173, 155, 48, .5);
     color: rgb(255, 255, 255);
@@ -242,7 +246,7 @@ header{
     font-weight: 200;
 }
 
-/* End of Landing Page */
+/* End of Landing Page & Landing Page - History - END */
 
 
 /*  PLACE HOLDER  */
