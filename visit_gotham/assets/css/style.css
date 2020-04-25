@@ -102,6 +102,7 @@ header{
     flex: 33.33%;
     max-width: 33.33%;
     padding: 0 15px 0 15px;
+    margin-bottom: 30px;
 }
 
 .column img{
@@ -162,12 +163,7 @@ header{
 .column2{
     flex: 33.33%;
     max-width: 33.33%;
-    padding: 0 15px 0 15px;
-}
-
-.column2 img{
-    vertical-align: middle;
-    width: 100%;
+    padding: 15px;
 }
 
 .column2 h2{
@@ -180,6 +176,7 @@ header{
     letter-spacing: 1px;
     color: rgb(255, 255, 255);
     background-color: rgb(12, 131, 72);
+    margin: 5px;
 }
 
 .column2 h2:hover{
@@ -264,29 +261,33 @@ footer{
     color: rgb(190, 188, 54);
 }
 
-.partners{
-    text-align: center;
-}
-
 .partners h3{
-    font-weight: 200;
-    margin-top: 70px;
-    font-family: 'Ubuntu';
     text-align: center;
+    font-weight: 200;
+    margin-top: 50px;
+    font-family: 'Ubuntu';
     color: rgb(153, 153, 153);
+    padding: 20px;
 }
 
-.companies{
-    padding: 0 30px 30px 30px;
+.row3{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
 }
 
-.companies p{
-    display: inline;
+.column3{
+    flex: 33.33%;
+    max-width: 33.33%;
+    padding: 0 15px 0 15px;
+    margin-bottom: 30px;
 }
 
-.companies img{
-    height: 180px;
-    padding: 30px;
+.column3 img{
+    vertical-align: middle;
+    width: 100%;
 }
 
 .mailing-list{
@@ -318,8 +319,22 @@ footer{
 /* End of Footer */
 
 /* Smart Phones */
+@media screen and (max-width: 1040px){
 
-@media screen and (max-width: 767px){
+    .column{
+        padding: 0 10px;
+    }
+}
+
+
+@media screen and (max-width: 1000px){
+
+    .row{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 770px){
 
     #logo{
         height: auto;
@@ -335,6 +350,29 @@ footer{
         margin-left: 30px;
         font-size: 130%;
         padding-bottom: 15px;
+    }
+    
+    .column{
+        padding: 0 5px;
+    }
+
+}
+
+@media screen and (max-width: 650px){
+    
+    .column{
+        flex: 100%;
+        max-width: 100%;
+        padding: 0 50px;
+        margin-bottom: 30px;
+    }
+}
+
+
+@media screen and (max-width: 500px){
+    
+    .column{
+        padding: 0 15px;
     }
 }
 
