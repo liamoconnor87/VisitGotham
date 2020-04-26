@@ -189,7 +189,9 @@ header{
 
 /* Landing Page - City Info - END */
 
-/* Landing Page - History */
+/* End of Landing Page & Landing Page - City Info - END */
+
+/* History Page */
 
 .history{
     background-color: rgba(173, 155, 48, .5);
@@ -209,8 +211,6 @@ header{
     font-weight: 200;
 }
 
-/* End of Landing Page & Landing Page - History - END */
-
 
 /*  PLACE HOLDER  */
 
@@ -224,6 +224,7 @@ header{
     color: rgb(255, 255, 255);
     background-color: rgb(255, 255, 255);
 }
+
 
 
 /* Footer */
@@ -259,6 +260,10 @@ footer{
     margin: 20px;
     padding: 10px;
     color: rgb(190, 188, 54);
+}
+
+.social-networks i:hover{
+    color: rgb(255, 255, 255);
 }
 
 .partners h3{
@@ -318,6 +323,9 @@ footer{
 
 /* End of Footer */
 
+
+
+
 /* Smart Phones */
 
 @media screen and (max-width: 1025px){
@@ -354,9 +362,25 @@ footer{
         font-size: 130%;
         padding-bottom: 15px;
     }
+
+    .column{
+        flex: 50%;
+        max-width: 100%;
+        padding: 15px;
+    }
+
+    .column3{
+        flex: 50%;
+        max-width: 100%;
+        padding: 15px;
+    }
+
+    .wayne{
+        padding: 0 150px;
+    }
 }
 
-@media screen and (max-width: 420px){
+@media screen and (max-width: 500px){
 
     #navmenu{
         clear: left;
@@ -401,7 +425,7 @@ footer{
     }
 
     .city-info h1{
-        padding: 10px 10px 0 10px;
+        padding: 10px;
         font-size: 30px;
         font-weight: 200;
     }
@@ -414,14 +438,12 @@ footer{
 
     .mailing-list a{
         font-size: 20px;
-        }
-
-    .column3{
-        flex: 100%;
-        max-width: 100%;
-        padding: 15px;
-
     }
+
+    .wayne{
+        padding: 0 80px;
+    }
+
 }
 
 @media screen and (max-width: 360px){
