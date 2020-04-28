@@ -9,7 +9,7 @@ body{
     font-family: 'Libre Baskerville', serif;
 }
 
-/* Header - Navigation Bar */
+/* Header - Logo & Navigation Bar */
 
 header{
     display: block;
@@ -52,7 +52,7 @@ header{
     color: rgb(12, 131, 72);
 }
 
-/* End of Header - Navigation Bar */
+/* End of Header - Logo & Navigation Bar */
 
 
 /* Landing Page */
@@ -188,28 +188,8 @@ header{
 }
 
 /* Landing Page - City Info - END */
+/* End of Landing Page  */
 
-/* End of Landing Page & Landing Page - City Info - END */
-
-/* History Page */
-
-.history{
-    background-color: rgba(173, 155, 48, .5);
-    color: rgb(255, 255, 255);
-    position: absolute;
-    width: 100%;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-.history h1{
-    text-align: center;
-    font-family: 'Ubuntu';
-    padding: 40px;
-    font-size: 50px;
-    font-weight: 200;
-}
 
 
 /*  PLACE HOLDER  */
@@ -299,6 +279,10 @@ footer{
     text-align: center;
 }
 
+.remove{
+    display: none;
+}
+
 .mailing-list a{
     font-size: 25px;
     padding: 10px;
@@ -320,10 +304,91 @@ footer{
     border: none;
 }
 
-
 /* End of Footer */
 
 
+/* Mailing List Page */
+
+.form-section {
+    clear: both;
+    background: url("https://picturesmania.com/0-0/11934_chicago-ch.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+.signup-form{
+    font-family: 'Ubuntu';
+    margin-top: 150px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.4);
+    max-width: 400px;
+    position: absolute;
+    left: 20%;
+    padding: 30px;
+}
+
+.signup-form> h2{
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    height: 25px;
+    margin: 5px 0px 20px 0px;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: rgb(190, 188, 54);
+}
+
+.join-button{
+    font-family: 'Ubuntu';
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: rgb(12, 131, 72);
+    color: rgb(255, 255, 255);
+    display: block;
+}
+
+.join-button:hover {
+    background-color: rgb(190, 188, 54);
+    color: rgb(255, 255, 255);
+}
+
+/* End of Mailing List Page */
+
+
+/* History Page */
+
+.history{
+    background-color: rgba(173, 155, 48, .5);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.history h1{
+    text-align: center;
+    font-family: 'Ubuntu';
+    padding: 40px;
+    font-size: 50px;
+    font-weight: 200;
+}
+
+/* End of History Page */
 
 
 /* Smart Phones */
@@ -444,6 +509,16 @@ footer{
 
     .wayne{
         padding: 0 80px;
+    }
+
+    .signup-form> h2{
+        font-size: 15px;
+    }
+
+    .signup-form{
+        margin-top: 50px;
+        max-width: 300px;
+        left: 3%;
     }
 
 }
