@@ -362,6 +362,7 @@ footer{
         font-size: 130%;
         padding-bottom: 15px;
     }
+    
 
     .column{
         flex: 50%;
@@ -391,8 +392,9 @@ footer{
     }
 
     #logo{
-        height: 80px;
-        width: auto;
+        height: auto;
+        width: 90%;
+        margin-left: 15px;
     }
 
     .hero-container{
