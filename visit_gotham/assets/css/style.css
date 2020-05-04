@@ -196,14 +196,11 @@ header{
 .things-to-do{
     float: left;
     margin: 0 auto;
+    width: 100%;
     text-align: center;
     font-family: 'Ubuntu';
     background-color: rgb(236, 236, 236);
     
-}
-
-.things-to-do img{
-    width: 100%;
 }
 
 .things-to-do h1{
@@ -212,16 +209,29 @@ header{
     font-weight: 200;
 }
 
-.things-to-do h2{
+.gotham-zoo{
+    float: left;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    font-family: 'Ubuntu';
+    background-color: rgb(255, 255, 255);
+}
+
+.gotham-zoo img{
+    width: 100%;
+}
+
+.gotham-zoo h2{
     padding: 40px;
     font-size: 40px;
     font-weight: 300;
 }
 
-.things-to-do p{
+.gotham-zoo p{
     margin: 0 auto;
     width: 70%;
-    padding-bottom: 50px;
+    padding-bottom: 80px;
     font-size: 18px;
     font-weight: 200;
 }
@@ -241,11 +251,10 @@ header{
     background-color: rgb(255, 255, 255);
 }
 
-
-
 /* Footer */
 
 footer{
+    float: left;
     background-color: rgb(80, 80, 80);
 }
 
