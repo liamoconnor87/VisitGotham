@@ -78,6 +78,7 @@ header{
 /* Landing Page - Things to Do  */
 
 .things-to-do{
+    float: left;
     background-color: rgb(236, 236, 236);
     padding-bottom: 40px;
 }
@@ -190,7 +191,37 @@ header{
 /* Landing Page - City Info - END */
 /* End of Landing Page  */
 
+/* Things To Do */
 
+.row4{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.column4{
+    flex: 100;
+    max-width: 100%;
+}
+
+.column4 img{
+    vertical-align: middle;
+    width: 100%;
+}
+
+.column4 h2{
+    padding: 8px;
+    text-align: center;
+    font-family: 'Ubuntu';
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(131, 26, 12);
+}
+
+/* End of Things To Do */
 
 /*  PLACE HOLDER  */
 
