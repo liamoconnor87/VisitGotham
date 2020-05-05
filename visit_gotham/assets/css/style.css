@@ -211,7 +211,7 @@ header{
     font-weight: 200;
 }
 
-.gotham-zoo{
+.ttd-section{
     float: left;
     margin: 0 auto;
     width: 100%;
@@ -220,19 +220,19 @@ header{
     background-color: rgb(255, 255, 255);
 }
 
-.gotham-zoo img{
+.ttd-section img{
     width: 100%;
     
 }
 
-.gotham-zoo h2{
+.ttd-section h2{
     padding: 40px;
     font-size: 40px;
     font-weight: 300;
     text-decoration: underline;
 }
 
-.gotham-zoo p{
+.ttd-section p{
     margin: 0 auto;
     width: 70%;
     padding-bottom: 80px;
