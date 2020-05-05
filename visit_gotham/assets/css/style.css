@@ -46,10 +46,12 @@ header{
 
 #navmenu a:hover{
     color: rgb(12, 131, 72);
+    text-decoration: underline;
 }
 
 #navmenu .active{
     color: rgb(12, 131, 72);
+    text-decoration: underline;
 }
 
 /* End of Header - Logo & Navigation Bar */
@@ -200,7 +202,7 @@ header{
     text-align: center;
     font-family: 'Ubuntu';
     background-color: rgb(236, 236, 236);
-    
+    text-decoration: underline;
 }
 
 .things-to-do h1{
@@ -220,12 +222,14 @@ header{
 
 .gotham-zoo img{
     width: 100%;
+    
 }
 
 .gotham-zoo h2{
     padding: 40px;
     font-size: 40px;
     font-weight: 300;
+    text-decoration: underline;
 }
 
 .gotham-zoo p{
