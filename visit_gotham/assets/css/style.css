@@ -457,6 +457,10 @@ footer{
         max-width: 50%;
         padding: 15px;
     }
+
+    .ttd-section p{
+        width: 90%;
+    }
 }
 
 @media screen and (max-width: 770px){
