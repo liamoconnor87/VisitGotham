@@ -200,13 +200,13 @@ header{
 /* Things To Do */
 
 .things-to-do{
-    float: left;
+    float: center;
     margin: 0 auto;
     width: 100%;
     text-align: center;
     font-family: 'Ubuntu';
-    background-color: rgb(131, 26, 12);;
-    color: rgb(255, 255, 255)
+    /*background-color: rgb(131, 26, 12);
+    color: rgb(255, 255, 255)*/
 }
 
 .things-to-do h1{
@@ -216,15 +216,16 @@ header{
 }
 
 .ttd-section{
-    float: left;
+    float: center;
     margin: 0 auto;
-    width: 100%;
+    width: 70%;
     text-align: center;
     font-family: 'Ubuntu';
     background-color: rgb(255, 255, 255);
 }
 
 .ttd-section img{
+    margin: 0 auto;
     width: 100%;
     
 }
@@ -462,6 +463,23 @@ footer{
         padding: 15px;
     }
 
+    .things-to-do h1{
+        font-size: 40px;
+    }
+
+    .ttd-section{
+        width: 100%;
+    }
+
+    .ttd-section img{
+        width: 100%;
+    }
+
+    .ttd-section h2{
+        padding: 40px;
+        font-size: 30px;
+    }
+
     .ttd-section p{
         width: 90%;
     }
@@ -501,6 +519,10 @@ footer{
     .wayne{
         padding: 0 150px;
     }
+
+    .ttd-section p{
+        font-size: 15px;
+    }
 }
 
 @media screen and (max-width: 500px){
@@ -519,9 +541,9 @@ footer{
         margin-left: 15px;
     }
 
-    .hero-container{
+    /*.hero-container{
         background-color: rgb(236, 236, 236);
-    }
+    }*/
 
     .hero-container h1{
         padding: 15px;
@@ -532,7 +554,7 @@ footer{
     .things-landing{
         margin-top: 10px;
         padding: 0;
-        background-color: #ffffff;
+        /*background-color: #ffffff;*/
     }
 
     .things-landing h1{
@@ -577,7 +599,6 @@ footer{
         max-width: 300px;
         left: 3%;
     }
-
 }
 
 @media screen and (max-width: 360px){
