@@ -6,7 +6,7 @@
 }
 
 body{
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Ubuntu', 'Libre Baskerville', serif;
 }
 
 /* Header - Logo & Navigation Bar */
@@ -236,12 +236,12 @@ footer{
     margin-bottom: 30px;
 }
 
-.city-info{
+.city-landing{
     background-color: rgb(255, 255, 255);
     padding-bottom: 40px;
 }
 
-.city-info h1{
+.city-landing h1{
     text-align: center;
     font-family: 'Ubuntu';
     padding: 40px;
@@ -334,6 +334,16 @@ footer{
 }
 
 /* End of Things To Do */
+
+
+/* City Info Page */
+
+.info{
+    margin: 0 auto;
+    width: 70%;
+}
+
+/* End of City Info Page */
 
 
 /* Mailing List Page */
