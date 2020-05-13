@@ -339,8 +339,39 @@ footer{
 /* City Info Page */
 
 .info{
+    width: 100%;
+}
+.text-center{
+    margin: 0 auto;
+    text-align: center;
+}
+.red-bg{
+    padding: 10px;
+    background-color: red;
+}
+
+.white-font{
+    color: white;
+}
+
+.grey-bg{
     margin: 0 auto;
     width: 70%;
+    background-color: rgb(236, 236, 236);
+}
+
+.info-2{
+    padding: 10px;
+    padding-bottom: 40px;
+    margin-bottom: 20px;
+}
+
+.width-70{
+    width: 70%;
+}
+
+.covid{
+    margin-bottom: 20px;
 }
 
 /* End of City Info Page */
