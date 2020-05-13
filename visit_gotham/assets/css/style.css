@@ -221,7 +221,7 @@ footer{
     font-weight: 300;
     letter-spacing: 1px;
     color: rgb(255, 255, 255);
-    background-color: rgb(131, 26, 12);
+    background-color: rgb(175, 49, 33);
 }
 
 .column h2:hover{
@@ -345,25 +345,20 @@ footer{
     margin: 0 auto;
     text-align: center;
 }
-.red-bg{
-    padding: 10px;
-    background-color: red;
-}
-
-.white-font{
-    color: white;
-}
 
 .grey-bg{
     margin: 0 auto;
     width: 70%;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(236, 236, 236);
 }
 
 .info-2{
-    padding: 10px;
-    padding-bottom: 40px;
+    padding: 20px;
     margin-bottom: 20px;
+}
+
+.info-2 h2{
+    padding-bottom: 10px;
 }
 
 .width-70{
@@ -371,7 +366,15 @@ footer{
 }
 
 .covid{
+    color: white;
     margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: rgb(175, 49, 33);
+}
+
+.covid h2{
+    text-decoration: underline;
 }
 
 /* End of City Info Page */
@@ -474,6 +477,14 @@ footer{
     }
 
     .ttd-section p{
+        width: 90%;
+    }
+
+    .grey-bg{
+        width: 90%;
+    }
+
+    .width-70{
         width: 90%;
     }
 }
@@ -587,6 +598,22 @@ footer{
         max-width: 300px;
         left: 3%;
     }
+
+    .covid{
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+    .grey-bg{
+        width: 100%;
+    }
+
+    .width-70{
+        width: 100%;
+    }
+
+    .info-2{
+        margin-bottom: 0;
+    }
 }
 
 @media screen and (max-width: 360px){
@@ -596,7 +623,11 @@ footer{
 
     .mailing-list a{
         font-size: 15px;
-        }  
+    }
+    
+    .title h1{
+        font-size: 30px;
+    }
 }
 
 
