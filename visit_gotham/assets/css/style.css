@@ -377,6 +377,11 @@ footer{
     text-decoration: underline;
 }
 
+p a{
+    text-decoration: none;
+    color: rgb(175, 49, 33);
+}
+
 /* End of City Info Page */
 
 
