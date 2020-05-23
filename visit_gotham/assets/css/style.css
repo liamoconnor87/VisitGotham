@@ -90,7 +90,7 @@ footer{
     font-size: 50px;
     margin: 20px;
     padding: 10px;
-    color: rgb(190, 188, 54);
+    color: rgb(202, 176, 58);
 }
 
 .social-networks i:hover{
@@ -141,7 +141,7 @@ footer{
     border-radius: 8px;
     font-family: 'Ubuntu';
     text-decoration: none;
-    color: rgb(190, 188, 54);
+    color: rgb(202, 176, 58);
 }
 
 .mailing-list i{
@@ -151,7 +151,7 @@ footer{
 
 .mailing-list a:hover{
     color: rgb(255, 255, 255);
-    background-color: rgb(190, 188, 54);
+    background-color: rgb(202, 176, 58);
     border: none;
 }
 
@@ -221,11 +221,17 @@ footer{
     font-weight: 300;
     letter-spacing: 1px;
     color: rgb(255, 255, 255);
-    background-color: rgb(175, 49, 33);
+    background-color: rgb(92, 92, 92);
 }
 
 .column h2:hover{
-    background-color: rgb(173, 155, 48);
+    background-color: rgb(0, 0, 0);
+}
+
+.bat-hover h2:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(250, 207, 16);
+    font-weight: 400;
 }
 
 .column a{
@@ -277,7 +283,7 @@ footer{
 }
 
 .column2 h2:hover{
-    background-color: rgb(173, 155, 48);
+    background-color: rgb(0, 0, 0);
 }
 
 .column2 a{
@@ -306,7 +312,7 @@ footer{
 .ttd-section{
     float: center;
     margin: 0 auto;
-    width: 70%;
+    width: 90%;
     text-align: center;
     font-family: 'Ubuntu';
     background-color: rgb(255, 255, 255);
@@ -314,14 +320,13 @@ footer{
 
 .ttd-section img{
     margin: 0 auto;
-    width: 100%;
-    
+    width: 90%;
 }
 
 .ttd-section h2{
-    padding: 40px;
-    font-size: 40px;
-    font-weight: 300;
+    padding: 20px;
+    padding-top: 40px;
+    font-size: 30px;
     text-decoration: underline;
 }
 
@@ -423,7 +428,7 @@ p a{
 }
 
 .text-input:hover {
-    border-color: rgb(190, 188, 54);
+    border-color: rgb(202, 176, 58);
 }
 
 .join-button{
@@ -439,7 +444,7 @@ p a{
 }
 
 .join-button:hover {
-    background-color: rgb(190, 188, 54);
+    background-color: rgb(202, 176, 58);
     color: rgb(255, 255, 255);
 }
 
@@ -481,8 +486,8 @@ p a{
         font-size: 30px;
     }
 
-    .ttd-section p{
-        width: 90%;
+    .covid{
+        margin-top: 0;
     }
 
     .grey-bg{
