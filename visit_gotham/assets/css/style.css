@@ -373,7 +373,7 @@ footer{
 .covid{
     color: white;
     margin-bottom: 20px;
-    margin-top: 20px;
+    /*margin-top: 20px;*/
     padding: 20px;
     background-color: rgb(175, 49, 33);
 }
@@ -488,10 +488,15 @@ p a{
 
     .covid{
         margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .info-2{
+        margin-bottom: 0;
     }
 
     .grey-bg{
-        width: 90%;
+        width: 100%;
     }
 
     .width-70{
@@ -537,6 +542,7 @@ p a{
     .ttd-section p{
         font-size: 15px;
     }
+
 }
 
 @media screen and (max-width: 500px){
