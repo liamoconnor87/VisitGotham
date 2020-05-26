@@ -389,6 +389,45 @@ p a{
 
 /* End of City Info Page */
 
+/* History Page*/
+
+.hist-intro{
+    text-align: center;
+    margin: 0 auto;
+    width: 70%;
+    margin-bottom: 50px;
+}
+
+.margin-top{
+    margin-top: 50px;
+}
+
+.fnt-size{
+    font-size: 25px;
+}
+
+
+.row4{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.column4{
+    flex: 50%;
+    max-width: 50%;
+}
+
+.column4 img{
+    vertical-align: middle;
+    width: 100%;
+}
+
+
+/* End of History Page */
+
 
 /* Mailing List Page */
 
