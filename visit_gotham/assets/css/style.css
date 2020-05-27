@@ -335,6 +335,7 @@ footer{
 }
 
 .thg-txt1 h2{
+    text-decoration: underline;
     padding: 10px;
 }
 
@@ -368,6 +369,7 @@ footer{
 }
 
 .thg-txt2 h2{
+    text-decoration: underline;
     padding: 10px;
 }
 
@@ -398,11 +400,13 @@ footer{
 .thg-txt1 a{
   text-decoration: none;
   color: inherit;
+  margin-left: 15px;
 }
 
 .thg-txt2 a{
   text-decoration: none;
   color: inherit;
+  margin-left: 15px;
 }
 
 /* End of Things To Do */
@@ -440,7 +444,6 @@ footer{
 .covid{
     color: white;
     margin-bottom: 20px;
-    /*margin-top: 20px;*/
     padding: 20px;
     background-color: rgb(175, 49, 33);
 }
@@ -452,6 +455,20 @@ footer{
 p a{
     text-decoration: none;
     color: rgb(175, 49, 33);
+}
+
+.scroll-top{
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(175, 49, 33);
+    font-size: 30px;
+}
+
+.scroll-up i{
+    text-decoration: none;
+    color: inherit;
 }
 
 /* End of City Info Page */
@@ -604,6 +621,10 @@ p a{
         margin-bottom: 0;
     }
 
+    .scroll-top{
+        margin-top: 20px;
+    }
+
     .grey-bg{
         width: 100%;
     }
@@ -611,6 +632,28 @@ p a{
     .width-70{
         width: 90%;
     }
+
+    .thg-section1, .thg-section2, .thg-section3{
+        flex-direction: column;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 0;
+    }
+
+    .thg-section2{
+        flex-direction: column-reverse;
+    }
+
+    .thg-txt1 p, .thg-txt2 p{
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 50px;
+    }
+
+    .thg-txt1 h2, .thg-txt2 h2{
+        padding-top: 40px;
+    }
+
 }
 
 @media screen and (max-width: 770px){
@@ -642,27 +685,6 @@ p a{
         flex: 50%;
         max-width: 100%;
         padding: 15px;
-    }
-
-
-    .thg-section1, .thg-section2, .thg-section3{
-        flex-direction: column;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    .thg-section2{
-        flex-direction: column-reverse;
-    }
-
-    .thg-txt1 p, .thg-txt2 p{
-        padding-left: 50px;
-        padding-right: 50px;
-        padding-bottom: 50px;
-    }
-
-    .thg-txt1 h2, .thg-txt2 h2{
-        padding-top: 40px;
     }
 
     .wayne{
