@@ -309,7 +309,73 @@ footer{
     font-weight: 200;
 }
 
-.ttd-section{
+.thg-section1{
+    display: flex;
+    flex-direction: row;
+    color: rgb(255, 255, 255);
+    background-color: rgb(92, 92, 92);
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.thg-section1 img{
+    width: 100%;
+    float: left;
+}
+
+.thg-section1 > div{
+    flex: 100%;
+    max-width: 100%;
+    text-align: center;
+}
+
+.thg-txt1{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.thg-txt1 h2{
+    padding: 10px;
+}
+
+.thg-txt1 p{
+    padding: 20px;
+}
+
+.thg-section2{
+    display: flex;
+    flex-direction: row;
+    color: rgb(255, 255, 255);
+    background-color: rgb(92, 92, 92);
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.thg-section2 img{
+    width: 100%;
+    float: right;
+}
+
+.thg-section2 > div{
+    flex: 100%;
+    max-width: 100%;
+    text-align: center;
+}
+
+.thg-txt2{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.thg-txt2 h2{
+    padding: 10px;
+}
+
+.thg-txt2 p{
+    padding: 20px;
+}
+
+/*.ttd-section{
     float: center;
     margin: 0 auto;
     width: 90%;
@@ -336,7 +402,7 @@ footer{
     padding-bottom: 80px;
     font-size: 18px;
     font-weight: 200;
-}
+}*/
 
 /* End of Things To Do */
 
