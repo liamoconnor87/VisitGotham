@@ -559,6 +559,22 @@ p a{
 
 /* Smart Phones */
 
+@media screen and (max-width: 1270px){
+    
+    .thg-section1 > div{
+        font-size: 12px;
+    }
+
+    .thg-section2 > div{
+        font-size: 12px;
+    }
+
+    .thg-section3 > div{
+        font-size: 12px;
+    }
+
+}
+
 @media screen and (max-width: 1025px){
 
     .row{
@@ -577,19 +593,6 @@ p a{
 
     .title h1{
         font-size: 40px;
-    }
-
-    .ttd-section{
-        width: 100%;
-    }
-
-    .ttd-section img{
-        width: 100%;
-    }
-
-    .ttd-section h2{
-        padding: 40px;
-        font-size: 30px;
     }
 
     .covid{
@@ -641,12 +644,29 @@ p a{
         padding: 15px;
     }
 
-    .wayne{
-        padding: 0 150px;
+
+    .thg-section1, .thg-section2, .thg-section3{
+        flex-direction: column;
+        margin-left: auto;
+        margin-right: auto;
     }
 
-    .ttd-section p{
-        font-size: 15px;
+    .thg-section2{
+        flex-direction: column-reverse;
+    }
+
+    .thg-txt1 p, .thg-txt2 p{
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 50px;
+    }
+
+    .thg-txt1 h2, .thg-txt2 h2{
+        padding-top: 40px;
+    }
+
+    .wayne{
+        padding: 0 150px;
     }
 
 }
