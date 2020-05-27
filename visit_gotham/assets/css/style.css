@@ -346,7 +346,7 @@ footer{
     display: flex;
     flex-direction: row;
     color: rgb(255, 255, 255);
-    background-color: rgb(92, 92, 92);
+    background-color: rgb(0, 0, 0);
     width: 100%;
     margin-bottom: 30px;
 }
@@ -375,34 +375,35 @@ footer{
     padding: 20px;
 }
 
-/*.ttd-section{
-    float: center;
-    margin: 0 auto;
-    width: 90%;
+.thg-section3{
+    display: flex;
+    flex-direction: row;
+    color: rgb(0, 0, 0);;
+    background-color: rgb(250, 207, 16);
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.thg-section3 img{
+    width: 100%;
+    float: left;
+}
+
+.thg-section3 > div{
+    flex: 100%;
+    max-width: 100%;
     text-align: center;
-    font-family: 'Ubuntu';
-    background-color: rgb(255, 255, 255);
 }
 
-.ttd-section img{
-    margin: 0 auto;
-    width: 90%;
+.thg-txt1 a{
+  text-decoration: none;
+  color: inherit;
 }
 
-.ttd-section h2{
-    padding: 20px;
-    padding-top: 40px;
-    font-size: 30px;
-    text-decoration: underline;
+.thg-txt2 a{
+  text-decoration: none;
+  color: inherit;
 }
-
-.ttd-section p{
-    margin: 0 auto;
-    width: 70%;
-    padding-bottom: 80px;
-    font-size: 18px;
-    font-weight: 200;
-}*/
 
 /* End of Things To Do */
 
