@@ -475,76 +475,62 @@ p a{
 
 /* History Page*/
 
-.thg-intro{
+.his-intro{
     margin: 0 auto;
     width: 100%;
     background-color: rgb(236, 236, 236);
     padding: 20px;
+    margin-bottom: 40px;
 }
 
-.thg-intro h2, .thg-intro p{
+.his-intro h2, .his-intro p{
     margin: 0 auto;
     width: 70%;
     text-align: center;
 }
 
-.thg-intro h2{
+.his-intro h2{
     text-decoration: underline;
     padding: 10px;
 }
 
-.thg-intro p{
-    padding: 10px;
+.his-intro p{
+    padding: 20px;
 }
 
-.thg-section1{
+.his-section1{
     display: flex;
     flex-direction: row;
     color: rgb(255, 255, 255);
     background-color: rgb(92, 92, 92);
     width: 100%;
+    margin-bottom: 40px;
 }
 
-.thg-section1 img{
+.his-section1 img{
     width: 100%;
     float: left;
 }
 
-.thg-section1 > div{
+.his-section1 > div{
     flex: 100%;
     max-width: 100%;
     text-align: center;
 }
 
-.thg-txt1{
+.his-txt1{
     margin-top: auto;
     margin-bottom: auto;
 }
 
-.thg-txt1 h2{
+.his-txt1 h2{
     text-decoration: underline;
     padding: 10px;
 }
 
-.thg-txt1 p{
-    padding: 20px;
+.his-txt1 p{
+    padding: 50px;
 }
-
-/*.hist-intro{
-    text-align: center;
-    margin: 0 auto;
-    width: 70%;
-    margin-bottom: 50px;
-}
-
-.margin-top{
-    margin-top: 50px;
-}
-
-.fnt-25{
-    font-size: 25px;
-} */
-
 
 .row4{
     width: 100%;
