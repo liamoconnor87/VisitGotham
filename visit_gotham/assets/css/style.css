@@ -518,6 +518,11 @@ p a{
     text-align: center;
 }
 
+.row-rev{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
 .his-txt1{
     margin-top: auto;
     margin-bottom: auto;
@@ -627,6 +632,27 @@ p a{
 
 /* Smart Phones */
 
+@media screen and (max-width: 1450px){
+    
+    .his-txt1, .his-intro{
+        font-size: 14px;
+    }
+
+}
+
+@media screen and (max-width: 1320px){
+    
+    .his-txt1 p{
+        padding: 20px;
+    }
+
+    .his-intro p{
+        width: 85%;
+        }
+
+}
+
+
 @media screen and (max-width: 1270px){
     
     .thg-section1 > div{
@@ -639,6 +665,19 @@ p a{
 
     .thg-section3 > div{
         font-size: 12px;
+    }
+
+    .dis-none{
+        display: none;
+    }
+
+    .column4{
+        flex: 100%;
+        max-width: 100%;
+    }
+
+    .his-intro, .his-section1{
+        margin-bottom: 0;
     }
 
 }
@@ -741,6 +780,22 @@ p a{
     .wayne{
         padding: 0 150px;
     }
+
+}
+
+@media screen and (max-width: 700px){
+
+    .his-section1{
+        flex-direction: column;
+    }
+
+    .his-intro{
+        padding: 0;
+    }
+
+    .his-intro p{
+        width: 100%;
+        }
 
 }
 
