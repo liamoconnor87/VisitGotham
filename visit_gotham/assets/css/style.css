@@ -550,6 +550,16 @@ p a{
     width: 100%;
 }
 
+.column5{
+    flex: 100%;
+    max-width: 100%;
+}
+
+.column5 img{
+    height: auto;
+    width: auto;
+}
+
 
 /* End of History Page */
 
