@@ -537,6 +537,14 @@ p a{
     padding: 50px;
 }
 
+.bw-bg{
+    background-color: rgb(0, 0, 0);
+}
+
+.wht-fnt{
+    color: rgb(255, 255, 255);
+}
+
 .row4{
     width: 100%;
     margin-left: auto;
@@ -555,14 +563,8 @@ p a{
     width: 100%;
 }
 
-.column5{
-    flex: 100%;
-    max-width: 100%;
-}
-
-.column5 img{
-    height: auto;
-    width: auto;
+.yel-bg{
+    background-color: rgb(250, 207, 16);
 }
 
 
