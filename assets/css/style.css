@@ -806,6 +806,10 @@ p a{
         width: 100%;
         }
 
+    .thg-txt1 p, .thg-txt2 p{
+        padding: 20px;
+    }
+
 }
 
 @media screen and (max-width: 500px){
