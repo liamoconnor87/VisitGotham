@@ -216,6 +216,8 @@ footer{
     flex-wrap: wrap;
 }
 
+/* Flex learnt from https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp */
+
 .column{
     flex: 33.33%;
     max-width: 33.33%;
@@ -270,6 +272,9 @@ footer{
     font-size: 50px;
     font-weight: 200;
 }
+
+/* Flex learnt from https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp */
+
 
 .row2{
     width: 80%;
@@ -326,6 +331,7 @@ footer{
 
 /* Things To Do */
 
+/* Flex learnt from https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp */
 
 .thg-section1{
     display: flex;
@@ -502,6 +508,8 @@ p a{
     padding: 20px;
 }
 
+/* Flex learnt from https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp */
+
 .his-section1{
     display: flex;
     flex-direction: row;
@@ -582,7 +590,7 @@ p a{
 
 .form-section {
     clear: both;
-    background: url("https://picturesmania.com/0-0/11934_chicago-ch.jpg");
+    background: url("https://ibb.co/ZdmZYFY");
     background-size: cover;
     background-position: center;
     height: 900px;
