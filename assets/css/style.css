@@ -127,27 +127,38 @@ footer{
 
 /* Form layout used from Code Institue Exercise "Love Running" & https://imgbb.com used to host image */
 
+.form > form{
+    margin: auto;
+    text-align: center;
+}
+
 .signup-form{
     text-align: center;
-    margin: 0 auto;
     font-family: 'Ubuntu';
     color: rgb(255, 255, 255);
+    margin: 5px;
 }
 
 .signup-form> h2{
     font-weight: 300;
-    padding: 8px;
+    padding: 4px;
+    margin: 4px;
     color: rgb(255, 255, 255);
 }
 
 .text-input{
-    background-color: transparent;
+    background-color: rgb(255, 255, 255);
     color: rgb(255, 255, 255);
-    width: 20%;
-    height: 25px;
-    margin: 10px;
+    width: 300px;
+    min-width: 200px;
+    height: 32px;
     border: 1px solid #fafafa;
     border-radius: 2px;
+    margin: 4px;
+}
+
+.fa-paper-plane:before{
+    padding: 7px;
 }
 
 .text-input:hover {
@@ -156,7 +167,7 @@ footer{
 
 .join-button{
     font-family: 'Ubuntu';
-    padding: 8px;
+    padding: 7px;
     text-align: center;
     font-size: 100%;
     color: rgb(255, 255, 255);
@@ -823,22 +834,8 @@ p a{
         padding: 5px;
     }
 
-    .mailing-list a{
-        font-size: 20px;
-    }
-
     .wayne{
         padding: 0 80px;
-    }
-
-    .signup-form> h2{
-        font-size: 15px;
-    }
-
-    .signup-form{
-        margin-top: 50px;
-        max-width: 300px;
-        left: 3%;
     }
 
     .covid{
@@ -855,6 +852,14 @@ p a{
 
     .info-2{
         margin-bottom: 0;
+    }
+
+    .text-input{
+        width: 250px;
+    }
+
+    .dis-none2{
+        display: none;
     }
 
 }
