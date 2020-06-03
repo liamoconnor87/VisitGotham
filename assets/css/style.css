@@ -9,10 +9,14 @@ body{
     font-family: 'Ubuntu', 'Libre Baskerville', serif;
 }
 
-/* Header - Logo & Navigation Bar */
+/* Header - Logo & Navigation Bar - learnt fix navbar from https://www.w3schools.com/howto/howto_css_fixed_menu.asp */ 
 
-header{
-    display: block;
+.head-nav{
+    width: 100%;
+    height: auto;
+    position: fixed; 
+    top: 0;
+    background-color: rgb(255, 255, 255);
 }
 
 #logo{
@@ -199,24 +203,50 @@ footer{
     color: inherit;
 }
 
-/* Landing Page */
+/* Banner */
 
-.relative{
-    position: relative;
-}
-
-.hero-image img{
-    background-position: center;
+.banner{
     width: 100%;
     height: auto;
 }
 
-.hero-container h1{
+.banner img{
+    width: 100%;
+    height: auto;
+    margin-top: 110px; /* adjustment for fixed NAVBAR */
+}
+
+.banner-title{
+    width: 100%;
+}
+
+.banner-title h1{
     text-align: center;
-    font-weight: 200;
+    font-family: 'Ubuntu';
+    padding: 40px;
     font-size: 40px;
-    color: #000000;
-    margin: 50px;
+    font-weight: 200;
+}
+
+/* Page Title's */
+
+.title{
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    font-family: 'Ubuntu';
+}
+
+.title h1{
+    padding: 40px;
+    font-size: 50px;
+    font-weight: 200;
+}
+
+/* Landing Page */
+
+.relative{
+    position: relative;
 }
 
 .things-landing{
@@ -337,21 +367,6 @@ footer{
 }
 
 /* End of Landing Page  */
-
-/* Page Title */
-
-.title{
-    margin: 0 auto;
-    width: 100%;
-    text-align: center;
-    font-family: 'Ubuntu';
-}
-
-.title h1{
-    padding: 40px;
-    font-size: 50px;
-    font-weight: 200;
-}
 
 /* Things To Do */
 
@@ -743,6 +758,9 @@ p a{
         padding-bottom: 15px;
     }
     
+    .banner img{
+        margin-top: 287px; /* adjustment for fixed NAVBAR */
+    }
 
     .column{
         flex: 50%;
@@ -798,10 +816,8 @@ p a{
         margin-left: 15px;
     }
 
-    .hero-container h1{
-        padding: 15px;
-        font-size: 20px;
-        margin: auto;
+    .banner img{
+        margin-top: 223px; /* adjustment for fixed NAVBAR */
     }
 
     .things-landing{
@@ -868,6 +884,10 @@ p a{
 
     #navmenu{
         font-size: 90%;
+    }
+
+    .banner img{
+        margin-top: 196px; /* adjustment for fixed NAVBAR */
     }
 
     .mailing-list a{
