@@ -56,7 +56,6 @@ header{
 
 /* End of Header - Logo & Navigation Bar */
 
-
 /* Footer */
 
 footer{
@@ -126,33 +125,49 @@ footer{
     width: 100%;
 }
 
-.mailing-list{
+/* Form layout used from Code Institue Exercise "Love Running" & https://imgbb.com used to host image */
+
+.signup-form{
     text-align: center;
-}
-
-.remove{
-    display: none;
-}
-
-.mailing-list a{
-    font-size: 25px;
-    padding: 10px;
-    border: 1px solid rgb(255, 255, 255);
-    border-radius: 8px;
+    margin: 0 auto;
     font-family: 'Ubuntu';
-    text-decoration: none;
-    color: rgb(202, 176, 58);
+    color: rgb(255, 255, 255);
 }
 
-.mailing-list i{
+.signup-form> h2{
+    font-weight: 300;
+    padding: 8px;
     color: rgb(255, 255, 255);
-    padding-left: 15px;
 }
 
-.mailing-list a:hover{
+.text-input{
+    background-color: transparent;
     color: rgb(255, 255, 255);
+    width: 20%;
+    height: 25px;
+    margin: 10px;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: rgb(202, 176, 58);
+}
+
+.join-button{
+    font-family: 'Ubuntu';
+    padding: 8px;
+    text-align: center;
+    font-size: 100%;
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+
+.join-button:hover {
     background-color: rgb(202, 176, 58);
-    border: none;
+    color: rgb(255, 255, 255);
 }
 
 /* End of Footer */
@@ -172,7 +187,6 @@ footer{
     text-decoration: none;
     color: inherit;
 }
-
 
 /* Landing Page */
 
@@ -328,7 +342,6 @@ footer{
     font-weight: 200;
 }
 
-
 /* Things To Do */
 
 /* Flex learnt from https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp */
@@ -435,12 +448,12 @@ footer{
 
 /* End of Things To Do */
 
-
 /* City Info Page */
 
 .info{
     width: 100%;
 }
+
 .text-center{
     margin: 0 auto;
     text-align: center;
@@ -585,70 +598,6 @@ p a{
 
 /* End of History Page */
 
-
-/* Mailing List Page */
-
-/* Form layout used from Code Institue Exercise "Love Running" & https://imgbb.com used to host image */
-
-.form-section {
-    clear: both;
-    background: url("https://i.ibb.co/Lk6LZgc/high-rise-buildings-view-at-night-time-1822685.jpg");
-    background-size: cover;
-    background-position: center;
-    height: 900px;
-}
-
-.signup-form{
-    font-family: 'Ubuntu';
-    margin-top: 150px;
-    color: rgb(255, 255, 255);
-    background-color: rgba(0, 0, 0, 0.4);
-    max-width: 400px;
-    position: absolute;
-    left: 20%;
-    padding: 30px;
-}
-
-.signup-form> h2{
-    font-weight: 400;
-    color: rgb(255, 255, 255);
-    margin-bottom: 20px;
-}
-
-.text-input {
-    background-color: transparent;
-    color: rgb(255, 255, 255);
-    width: 100%;
-    height: 25px;
-    margin: 5px 0px 20px 0px;
-    border: 1px solid #fafafa;
-    border-radius: 2px;
-}
-
-.text-input:hover {
-    border-color: rgb(202, 176, 58);
-}
-
-.join-button{
-    font-family: 'Ubuntu';
-    margin-top: 20px;
-    border-radius: 2px;
-    padding: 15px 32px 15px 32px;
-    text-align: center;
-    font-size: 100%;
-    background-color: rgb(12, 131, 72);
-    color: rgb(255, 255, 255);
-    display: block;
-}
-
-.join-button:hover {
-    background-color: rgb(202, 176, 58);
-    color: rgb(255, 255, 255);
-}
-
-/* End of Mailing List Page */
-
-
 /* Smart Phones */
 
 @media screen and (max-width: 1450px){
@@ -667,7 +616,7 @@ p a{
 
     .his-intro p{
         width: 85%;
-        }
+    }
 
 }
 
@@ -907,9 +856,11 @@ p a{
     .info-2{
         margin-bottom: 0;
     }
+
 }
 
 @media screen and (max-width: 360px){
+
     #navmenu{
         font-size: 90%;
     }
@@ -921,4 +872,5 @@ p a{
     .title h1{
         font-size: 30px;
     }
+
 }
