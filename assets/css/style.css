@@ -624,6 +624,35 @@ p a{
 
 /* End of History Page */
 
+/* Gotham Map Pop Up - learnt from https://eichefam.net/2011/12/21/popup-windows-without-javascript/ */ 
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0,0,0,0.5);
+  transition: opacity 200ms;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup {
+  margin: 75px auto;
+  padding: 20px;
+  background: #fff;
+  border: 1px solid #666;
+  width: 300px;
+  box-shadow: 0 0 50px rgba(0,0,0,0.5);
+  position: relative;
+}
+
 /* Smart Phones */
 
 @media screen and (max-width: 1450px){
