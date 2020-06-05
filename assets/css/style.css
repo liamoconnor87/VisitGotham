@@ -375,13 +375,12 @@ footer{
 }
 
 .goth-map{
-    width: 34%; /* Change size for image and buttons here */
+    width: 50%; /* Change size for image and buttons here */
     margin-left: auto;
     margin-right: auto;
 }
 
 .map-cont{
-    flex: 100;
     width: 100%;
     padding: 0 15px 0 15px;
     margin-bottom: 30px;
@@ -671,35 +670,6 @@ p a{
 
 /* End of History Page */
 
-/* Gotham Map Pop Up - learnt from https://eichefam.net/2011/12/21/popup-windows-without-javascript/ */ 
-
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: rgba(0,0,0,0.5);
-  transition: opacity 200ms;
-  visibility: hidden;
-  opacity: 0;
-}
-
-.overlay:target {
-  visibility: visible;
-  opacity: 1;
-}
-
-.popup {
-  margin: 75px auto;
-  padding: 20px;
-  background: #fff;
-  border: 1px solid #666;
-  width: 300px;
-  box-shadow: 0 0 50px rgba(0,0,0,0.5);
-  position: relative;
-}
-
 /* Smart Phones */
 
 @media screen and (max-width: 1450px){
@@ -734,6 +704,10 @@ p a{
 
     .thg-section3 > div{
         font-size: 12px;
+    }
+
+    .goth-map{
+        width: 90%;
     }
 
     .dis-none{
@@ -855,6 +829,10 @@ p a{
 
     .wayne{
         padding: 0 150px;
+    }
+
+    .goth-map{
+        width: 100%;
     }
 
 }
