@@ -368,6 +368,53 @@ footer{
 
 /* End of Landing Page  */
 
+/* Gotham Map Preview - https://www.w3schools.com/jsref/met_his_back.asp */
+
+.g-preview{
+    background-color: rgb(54, 54, 54);
+}
+
+.g-map{
+    width: 100%;
+    height: 100%;
+}
+
+.g-map img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: auto;
+}
+
+.g-map button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    margin-top: 50px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 8px;
+    font-family: 'Ubuntu';
+    font-size: 20px;
+}
+
+.g-map a{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    margin-bottom: 50px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 8px;
+    font-family: 'Ubuntu';
+    font-size: 20px;
+}
+
 /* Things To Do */
 
 /* Flex learnt from https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp */
