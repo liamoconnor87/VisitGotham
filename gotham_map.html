@@ -11,14 +11,21 @@
 </head>
 
 <body class="g-preview">
-    <div class="g-map">
-        <button onclick="goBack()"><i class="fas fa-angle-left"></i> Return</button>
-        <img src="assets/images/GOTHAM_MAP.jpg" alt="Map of Gotham City">
-        <a href="assets/images/GOTHAM_MAP.jpg" download>Download Map <i class="fas fa-angle-down"></i></a>
+
+    <div class="goth-map">
+        <div class="map-cont">
+            <button onclick="goBack()"><i class="fas fa-angle-left"></i> Return</button>
+
+            <img src="assets/images/GOTHAM_MAP.jpg" alt="Map of Gotham City">
+
+            <a href="assets/images/GOTHAM_MAP.jpg" download><h4>Download <i class="fas fa-angle-down"></i></h4></a>
+
+            <script>
+                function goBack() {
+                window.history.back();
+                }
+            </script>
+        </div>
     </div>
-    <script>
-        function goBack() {
-        window.history.back();
-        }
-    </script>
+
 </body>
