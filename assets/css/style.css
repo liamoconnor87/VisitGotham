@@ -330,7 +330,6 @@ footer{
 
 /* Flex learnt from https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp */
 
-
 .row2{
     width: 80%;
     margin-left: auto;
@@ -412,6 +411,15 @@ footer{
     background-color: rgb(0, 0, 0);
     font-weight: 400;
     font-size: 20px;
+}
+
+.map-cont button:hover{
+    background-color: rgb(12, 131, 72);
+}
+
+.map-cont h4:hover{
+    background-color: rgb(250, 207, 16);
+    color: rgb(0, 0, 0)
 }
 
 /* Things To Do */
