@@ -365,24 +365,20 @@ footer{
     text-decoration: none;
 }
 
-/* End of Landing Page  */
+/* Gotham Map Modal - learnt from https://getbootstrap.com/docs/4.5/components/modal/ */
 
-/* Gotham Map Preview - https://www.w3schools.com/jsref/met_his_back.asp */
-
-.g-preview{
-    background-color: rgb(54, 54, 54);
+.modal-body{
+    padding: 0;
+    background-color: rgba(255, 255, 255, 0);
 }
 
-.goth-map{
-    width: 50%; /* Change size for image and buttons here */
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.map-cont{
+.modal-body img{
     width: 100%;
-    padding: 0 15px 0 15px;
-    margin-bottom: 30px;
+}
+
+.modal-content{
+    border-radius: 0;
+    background-color: rgb(255, 255, 255);
 }
 
 .map-cont img{
@@ -390,17 +386,19 @@ footer{
     width: 100%;
 }
 
-.map-cont button{
-    color: rgb(255, 255, 255);
-    background-color: rgb(0, 0, 0);
-    width: 100%;
-    padding: 8px;
-    font-family: 'Ubuntu';
-    font-size: 20px;
-}
-
 .map-cont a{
     text-decoration: none;
+}
+
+.map-cont h3{
+    width: 100%;
+    text-align: center;
+    padding: 8px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    font-weight: 400;
+    font-size: 20px;
+    margin: 0;
 }
 
 .map-cont h4{
@@ -411,16 +409,19 @@ footer{
     background-color: rgb(0, 0, 0);
     font-weight: 400;
     font-size: 20px;
-}
-
-.map-cont button:hover{
-    background-color: rgb(12, 131, 72);
+    margin: 0;
 }
 
 .map-cont h4:hover{
     background-color: rgb(250, 207, 16);
     color: rgb(0, 0, 0)
 }
+
+button{
+    background-color: rgb(255, 255, 255);
+}
+
+/* End of Landing Page  */
 
 /* Things To Do */
 
