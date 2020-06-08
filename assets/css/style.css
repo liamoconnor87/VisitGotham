@@ -378,21 +378,21 @@ footer{
     text-decoration: none;
 }
 
+.pointer{
+    cursor: pointer;
+}
+
 /* Gotham Map Modal - learnt from https://getbootstrap.com/docs/4.5/components/modal/ */
 
-.modal-body{
-    padding: 0;
-    background-color: rgba(255, 255, 255, 0);
-}
-
-.modal-body img{
-    width: 100%;
-}
-
-.modal-content{
+.mod-cnt-edit{
     border-radius: 0;
     background-color: rgb(255, 255, 255);
     margin: 15px;
+}
+
+.map-cont{
+    padding: 0;
+    background-color: rgba(255, 255, 255, 0);
 }
 
 .map-cont img{
@@ -404,29 +404,7 @@ footer{
     text-decoration: none;
 }
 
-.map-cont h3{
-    width: 100%;
-    text-align: center;
-    padding: 8px;
-    color: rgb(255, 255, 255);
-    background-color: rgb(0, 0, 0);
-    font-weight: 400;
-    font-size: 20px;
-    margin: 0;
-}
-
-.map-cont h4{
-    width: 100%;
-    text-align: center;
-    padding: 8px;
-    color: rgb(255, 255, 255);
-    background-color: rgb(0, 0, 0);
-    font-weight: 400;
-    font-size: 20px;
-    margin: 0;
-}
-
-.map-cont h5{
+.map-cont h3, .map-cont h4, .map-cont h5{
     width: 100%;
     text-align: center;
     padding: 8px;
@@ -445,18 +423,6 @@ footer{
 .map-cont h5:hover{
     background-color:rgb(12, 131, 72);
     color: rgb(255, 255, 255)
-}
-
-.map-cont button{
-    width: 100%;
-}
-
-button{
-    background-color: rgb(255, 255, 255);
-}
-
-.pointer{
-    cursor: pointer;
 }
 
 /* End of Landing Page  */
