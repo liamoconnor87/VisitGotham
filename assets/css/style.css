@@ -357,6 +357,19 @@ footer{
     margin: 5px;
 }
 
+.column2 span{
+    padding: 15px;
+    text-align: center;
+    font-family: 'Ubuntu';
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(12, 131, 72);
+    margin: 5px;
+}
+
 .column2 h2:hover{
     background-color: rgb(0, 0, 0);
 }
@@ -440,6 +453,10 @@ footer{
 
 button{
     background-color: rgb(255, 255, 255);
+}
+
+.pointer{
+    cursor: pointer;
 }
 
 /* End of Landing Page  */
