@@ -1,7 +1,7 @@
 Visit Gotham City Website Project - visitgotham.com
 ===================================================
 
-Visit Gotham is a tourism website designed to appeal to a broad audience and attract customers to visit the city. The website has a simple layout so customers are able to easily navigate a wealth of information and accompish the goal that led them to the website in the first place. The website uses large photos to showcase the city, representing a place customers will want to visit.
+Visit Gotham is a tourism website designed to appeal to a broad audience and attract customers to visit the city. The website has a simple layout so users are able to easily navigate a wealth of information and accompish the goal that led them to the website in the first place. The website uses large photos to showcase the city, representing a place customers will want to visit.
 
 The features of the website make it useful for customers at any stage of their journey; before, during or after. The 'things to do' section is a useful hub of information on the many attactions Gotham has to offer, such as the Zoo, Educational Tours, Nightlife and The Batman Memorial. During a trip to Gotham the 'City info' section is great for Weather Updates, a City Map, Transportation and Local laws and Currency. Even once the trip is over the Newletter feature can keep you up to date on future events for your next visit.
 
@@ -123,6 +123,8 @@ Exisiting Features
 
 >- Social Media Platforms - Allows users to connect with the website through it's social media pages.
 
+>- Information about Gotham City - Allows users to obtain a wealth of information about the City; past and present. 
+
 Features Left to Implement
 --------------------------
 
@@ -134,17 +136,18 @@ Features Left to Implement
 Technologies Used
 =================
 
->- [HTML](https://html.com) The project uses HTML to create the pages of the website. 
->- [CSS](https://www.w3.org/Style/CSS) The project uses CSS to style the websites pages. 
->- [Fontawesome](https://fontawesome.com) The project uses some icons from this Library to style some of the website.
->- [Bootstrap](https://getbootstrap.com) The project uses this framework to create a Modal that previews a map of Gotham City.
->- [JavaScript](https://www.javascript.com) The project uses some JavaScript through the Bootstrap framework to create the Modal that previews a map of Gotham City.
->- [Git](https://git-scm.com) The project uses to Git to push the project on to the Github repository.
->- [Github](https://github.com) The project uses Github repository to store the website.
->- [Github Pages](https://pages.github.com) The project uses Github pages to host the website.
->- [Gitpod](https://gitpod.io) The project uses Gitpod IDE to facilitate building the website.
->- [W3Schools](https://www.w3schools.com) The project used helpful tutorials to help build the website. 
->- [Validator](https://validator.w3.org) The project used this website to validate teh HTML and CSS code for the website.
+>- [HTML](https://html.com) - The project uses HTML to create the pages of the website. 
+>- [CSS](https://www.w3.org/Style/CSS) - The project uses CSS to style the websites pages. 
+>- [Fontawesome](https://fontawesome.com) - The project uses some icons from this Library to style some of the website.
+>- [Bootstrap](https://getbootstrap.com) - The project uses this framework to create a Modal that previews a map of Gotham City.
+>- [JavaScript](https://www.javascript.com) - The project uses some JavaScript through the Bootstrap framework to create the Modal that previews a map of Gotham City.
+>- [Git](https://git-scm.com) - The project uses to Git to push the project on to the Github repository.
+>- [Github](https://github.com) - The project uses Github repository to store the website.
+>- [Github Pages](https://pages.github.com) - The project uses Github pages to host the website.
+>- [Gitpod](https://gitpod.io) - The project uses Gitpod IDE to facilitate building the website.
+>- [W3Schools](https://www.w3schools.com) - The project used helpful tutorials to help build the website. 
+>- [Validator](https://validator.w3.org) - The project used this website to validate teh HTML and CSS code for the website.
+>- [Adobe Photoshop](https://www.adobe.com/uk/products/photoshop.html) - The project used this software to design the layouts of pages, logos of businesses and to crop and edit images used on the website. 
 
 
 Testing
@@ -159,14 +162,56 @@ Credits
 Content
 -------
 
+>- The text for Gotham Zoo section was copied and edited from the [Central Park Zoo About page](https://centralparkzoo.com/about)
+>- The text for Museum & Galleries section was copied and edited from the [NYCgo Museum & Galleries page](https://www.nycgo.com/things-to-do/museums-galleries)
+>- The text for Educational Tours section was copied and edited from the [Visit New York Educational Tours page](https://www.visitnewyork.com/educational-tours/)
+>- The text for Activities section was copied and edited from the [NYCgo Activities page](https://www.nycgo.com/broadway-show-tickets-nyc/)
+>- The text for Sightseeing section was copied and edited from the []()
+>- The text for Park & Recreation section was copied and edited from the [NYC Park About page](https://www.nycgovparks.org/about)
+>- The text for Nightlife section was copied and edited from the [NYC Travel Online Nightlife page](https://nyctravelonline.wordpress.com/night-life/)
+>- The text for Bars & Restaurants section was copied and edited from the [Choose Chicago Food & Drink page](https://www.choosechicago.com/things-to-do/food-drink/)
+>- The text for The Batman Memorial section was copied and edited from the [NYCgo 9/11 Memorial & Museum page](https://www.choosechicago.com/things-to-do/food-drink/)
+>- The text for the City Information page was copied and edited from the [NYCgo Basic Information page](https://www.nycgo.com/plan-your-trip/basic-information/)
+>- The text for the History page was copied and edited from the [DC Fandom Gotham City page](https://https://dc.fandom.com/wiki/Gotham_City/)
+
+
 Media
 -----
+
+The photos used in this site were obtained from the following;
+
+>- Index page top banner image from [Pexels](architectural-photography-of-tunnel-2088233)
+>- Index page bottom banner image from [Roadway Moving](https://www.roadwaymoving.com/blog/moving-from-nyc-to-chicago/)
+>- Things To Do page banner image from [Pixabay](https://pixabay.com/photos/chicago-chicago-river-1411272/)
+>- City Info page banner image from [Roof Meadow](https://roofmeadow.wordpress.com/2011/06/07/chicago-city-hall-chicago-il-2/)
+>- History page banner image from [Pexels](https://www.pexels.com/photo/photo-of-brooklyn-bridge-new-york-2260783/)
+>- Gotham City Zoo image for Index and Things To Do page from [Fight For Rhinos](https://fightforrhinos.files.wordpress.com/2015/11/southern-whites-in-san-diego.jpg)
+>- Museums & Galleries image for Index and Things To Do page from [Guggenheim Museum](https://www.guggenheim.org)
+>- Educational Tours image for Index and Things To Do page from [Chicago Tribune](https://www.chicagotribune.com/entertainment/ct-xpm-2014-05-07-ct-chicago-architecture-foundation-tours-20140507-story.html)
+>- Activities image for Index and Things To Do page from [Neighborhoods](https://www.neighborhoods.com/blog/6-winter-outdoor-activities-and-where-to-do-them-around-chicago)
+>- Sightseeing image for Index and Things To Do page from [Riverwalk Chicago](https://riverwalkchicago.com/http:/riverwalkchicago.com/chicago-boat-tour/)
+>- Park & Recreation image for Index and Things To Do page from [Traveldigg](https://traveldigg.com/the-fascination-of-hyde-park-london-england/)
+>- Nightlife image for Index and Things To Do page from [Dancing Astonaut](https://dancingastronaut.com/2019/01/new-york-nightlife-sector-unsurprisingly-booming-according-new-economic-impact-study-city-nightlife-mayors-office/)
+>- Bars & Restaurants image for Index and Things To Do page from [Asia-Bars](https://www.asia-bars.com/wp-content/uploads/2013/07/catalunya-hong-kong-7.jpg)
+>- The Batman Memorial image for Index and Things To Do page from [Comic Book Movie](http://images.fandango.com/MDCsite/images/featured/201211/tdkr-batman-statue.jpg)
+>- Monarch Theatre Logo from the Business Partner Section is from [Editing Luke](http://www.editingluke.net/2009/10/monarch-theatre-project-medicine-hat.html)
+>- The map of Gotham City image is from [Gotham City Wikipedia page](https://en.wikipedia.org/wiki/Gotham_City)
+>- The Dutch Navy Image is from [Retro Richie's Youtube file found on google image search](https://i.ytimg.com/vi/wBFHpG9AGzg/maxresdefault.jpg)
+>- The image of Henry Hudson is from [History.com](https://www.history.com/topics/exploration/henry-hudson)
+>- The image of 19th Century New York City is from [Things I Enjoy](http://thethingsienjoy.blogspot.com/2012/08/three-busy-port-cities-in-late-19th.html)
+>- The image of 19th Century Judge is from [Skiner Inc.](https://www.skinnerinc.com/auctions/2513/lots/730)
+>- The image of 20th Century criminals is from [Vintage Everyday](https://3.bp.blogspot.com/-NpA8LEE7kME/WNwGxVs-dqI/AAAAAAACn4E/p2koovkHGGAJu4c-LylNxKFT5DukPPOrgCLcB/s1600/american-gangsters-1920s-30s-4.jpeg)
+>- The image of the other 20th Century criminals is from [Hypness](https://www.hypeness.com.br/2017/04/serie-de-fotos-em-pb-capta-a-experiencia-de-ser-negro-na-chicago-dos-anos-1940/)
+>- The image of Batman flying is from [Gizmodo](https://www.gizmodo.co.uk/2012/07/science-shows-that-flying-using-batmans-cape-would-definitely-kill-you/)
+>- The image of Batman above the city [Tom's Hardware](https://www.tomshardware.com/uk/news/batman-arkham-knight-hands-on,29466.html)
 
 Acknowledgements
 ----------------
 
 >- I recieved inspiration for this project from [Visit New York](https://www.visitnewyork.com)
+>- I recieved inspiration for this project from [NYCgo](https://www.nycgo.com)
 >- I recieved inspiration for this project from [Central Park Zoo](https://centralparkzoo.com)
+>- I recieved mentorship on this project from Precious "Jedi Master" Ijege.
 
 
 
