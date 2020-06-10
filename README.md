@@ -198,7 +198,7 @@ Github Pages was used to deploy this website. In order to do this you will need 
 >- This will automatically refresh the page to update the changes.
 >- Scroll back down to the GitHub Pages section to find the address to your new published website. It should look similar to this. 
 >![image](README_files/images/confirm-pub.png)
->- Clicking on the link should take you to the hosted website. 
+>- Clicking on the link should take you to the hosted website. Hazar! 
 
 
 
