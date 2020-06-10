@@ -161,7 +161,7 @@ Testing
 Deployment
 ==========
 
-Github Pages was used to deploy this website. In ordee to do thid you will need to take the necessary steps;
+Github Pages was used to deploy this website. In order to do this you will need to take the following steps;
 
 >- Go to the Github website and log in or create an account. You will need an account in order to create a repository for your website.
 >- Log in to your account.
@@ -170,13 +170,14 @@ Github Pages was used to deploy this website. In ordee to do thid you will need 
 >- For a new account the link to create a Github repository would be seen on the home page.
 ![image](README_files/images/nw-ac-repo.png)
 
->- For an account that is not new your landing page will be your dashboard in which your looking for **New** button in **green** on the left hand side of the page. 
+>- For an account that is not new your landing page will be your dashboard in which your looking for the **New** button in **green** on the left hand side of the page. 
 ![image](README_files/images/create-repo.png)
 
 >- Both of these steps will take you to the next page which is the Github Repository creation page.
 >- You will need to give your repository a name that is unique. Github will indicate this with **green tick** next to the name.
 ![image](README_files/images/repo-pg.png)
 >- Fill up the other options given on the page and press **Create repository**. 
+>- 
 
 Credits
 =======
