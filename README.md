@@ -168,16 +168,39 @@ Github Pages was used to deploy this website. In order to do this you will need 
 >- There are two ways to create a repository depending on whether this is a new account or not. 
 
 >- For a new account the link to create a Github repository would be seen on the home page.
-![image](README_files/images/nw-ac-repo.png)
+> ![image](README_files/images/nw-ac-repo.png)
 
 >- For an account that is not new your landing page will be your dashboard in which your looking for the **New** button in **green** on the left hand side of the page. 
-![image](README_files/images/create-repo.png)
+> ![image](README_files/images/create-repo.png)
 
 >- Both of these steps will take you to the next page which is the Github Repository creation page.
 >- You will need to give your repository a name that is unique. Github will indicate this with **green tick** next to the name.
-![image](README_files/images/repo-pg.png)
+> ![image](README_files/images/repo-pg.png)
 >- Fill up the other options given on the page and press **Create repository**. 
->- 
+>- Now its created, you need to push your code to the repository by using the command line.
+> ![image](README_files/images/repo-push.png)
+
+>- From the command line you will need to do the following;
+>>- Change directory to where the files are located. For example your html file is located on your C drive on your desktop in a folder called test, you would use the **cd** commands to change directory to - C:User/desktop/test.
+>>- Run Git using the **git init** command.
+>>- Then add the file you want to push. For example **git add test.html**
+>>- Then commit file. For example **git commit -m "first commit"**
+>>- At this point you will be following commands that Github has provided for pushing "an existing repositry."
+>> ![image](README_files/images/exist-repo.png)
+>>- The command line will then prompt you to provide your **Github** **Username** and then **Password**, in order for it to push the files to the repository you created.
+
+>- This is now ready to be deployed on to Github Pages. Refreshing the page at this point should change the screen and show that your file has been pushed to the repository.
+>![image](README_files/images/repo.png)
+>- Now select **Settings** in the top right corner of the page and it should take you this tab.
+>![image](README_files/images/settings.png)
+>- Scroll down to the GitHub Pages section and change the source tab from **None** to **master branch**.
+>![image](README_files/images/masterbranch.png)
+>- This will automatically refresh the page to update the changes.
+>- Scroll back down to the GitHub Pages section to find the address to your new published website. It should look similar to this. 
+>![image](README_files/images/confirm-pub.png)
+>- Clicking on the link should take you to the hosted website. 
+
+
 
 Credits
 =======
