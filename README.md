@@ -33,7 +33,6 @@ For 'Geographical, Transportation, safety and Currency information' the 'City in
 
 Using all this information provided on the Visit Gotham website tourists will be able to safety plan and visit the City.
 
-
 Epics & User Stories
 --------------------
 
@@ -97,9 +96,15 @@ Epics & User Stories
 >- As a User, on the City Info page I would like links to contact numbers and addresses, that are useful for when im visitng the city.
 >- As a User, I would like the websites layout to be responsive, so I can visit the website on different smart devices. 
 
-Mockups - **place link to layouts here**
+Mockups
 -------
+[**Index page**](README_files/mockups/01-index.jpg)
 
+[**Things To Do page**](README_files/mockups/02-things-to-do.jpg)
+
+[**City Info page**](README_files/mockups/03-city-info.jpg)
+
+[**History page**](README_files/mockups/04-history.jpg)
 
 Features
 ========
@@ -155,6 +160,23 @@ Testing
 
 Deployment
 ==========
+
+Github Pages was used to deploy this website. In ordee to do thid you will need to take the necessary steps;
+
+>- Go to the Github website and log in or create an account. You will need an account in order to create a repository for your website.
+>- Log in to your account.
+>- There are two ways to create a repository depending on whether this is a new account or not. 
+
+>- For a new account the link to create a Github repository would be seen on the home page.
+![image](README_files/images/nw-ac-repo.png)
+
+>- For an account that is not new your landing page will be your dashboard in which your looking for **New** button in **green** on the left hand side of the page. 
+![image](README_files/images/create-repo.png)
+
+>- Both of these steps will take you to the next page which is the Github Repository creation page.
+>- You will need to give your repository a name that is unique. Github will indicate this with **green tick** next to the name.
+![image](README_files/images/repo-pg.png)
+>- Fill up the other options given on the page and press **Create repository**. 
 
 Credits
 =======
