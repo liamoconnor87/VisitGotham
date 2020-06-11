@@ -98,13 +98,13 @@ Epics & User Stories
 
 Mockups
 -------
-[**Index page**](README_files/mockups/01-index.jpg)
+[**Index page**](assets/README_files/mockups/01-index.jpg)
 
-[**Things To Do page**](README_files/mockups/02-things-to-do.jpg)
+[**Things To Do page**](assets/README_files/mockups/02-things-to-do.jpg)
 
-[**City Info page**](README_files/mockups/03-city-info.jpg)
+[**City Info page**](assets/README_files/mockups/03-city-info.jpg)
 
-[**History page**](README_files/mockups/04-history.jpg)
+[**History page**](assets/README_files/mockups/04-history.jpg)
 
 Features
 ========
@@ -160,12 +160,14 @@ Testing
 
 Header & Navigation Bar
 -----------------------
->1. Go to Visit Gotham website.
+>1. Go to the Visit Gotham website.
 >2. Click on Things To Do link to verify it takes you to the Things To Do page.
 >3. Click on City Info link to verify it takes you to the City Info page.
 >4. Click on History link to verify it takes you to the History page.
 >3. Click on Visit Gotham logo to verify it takes you to the Home page.
 >5. Repreat process for every page. 
+
+
 
 Home page's links to Things To Do sections
 ------------------------------------------
@@ -193,9 +195,85 @@ Gotham City Map preview
 >2. Click on the Gotham City Map link to verify it shows a preview of the Gotham City map.
 >3. Click on the Close link to verify it closes the preview. 
 >4. Click outside the preview to verify it closes the preview.
->5. Click on the Download link to verify it will download the map.
+>5. Click on the Download link to verify it will download to device.
 
+Contact Information
+-------------------
+>1. Go to the Contact Information section.
+>2. Specifically for smart phones. Click on phone number link to verify it will open the phone app on the device.
+>3. Click on the email address to verify it will open the email app on the device. 
+>4. Repeat process for every page.
 
+Social Media links (Dead links)
+------------------
+>1. Go to the Social Media section. 
+>2. Click on the Facebook Icon to verify it takes you to Facebook.
+>3. Click on the Twitter Icon to verify it takes you to Twitter.
+>2. Click on the Instagram Icon to verify it takes you to Instagram.
+
+Newsletter Sign Up
+------------------
+>1. Go to the Newsletter Sign Up section.
+>2. Try to submit the empty form and verify that an error message about the required fields appears.
+>3. Try to submit the form with an invalid email address and verify that the relevant error message appears.
+>4. Try to submit the form with a valid email address to verify that as successful message appears.
+
+Business Partners (Dead links)
+-----------------
+>1. Go to the Business Partners section. 
+>2. Click on the Business logo to verify it goes to the relevant site.
+>3. Repeat for each business partner.
+>4. Repeat process for every page.
+
+City Info page - Gotham Map Download
+-------------------------------------
+>1. Go to the City Info page.
+>2. Go to the Georgraphy section. 
+>3. Click on the Click here to download a Map of Gotham City link to verify it downloads the map to the device.
+
+City Info page - Information Links (Dead links)
+----------------------------------
+>1. Go to the City Info page.
+>2. Go to the Tours & Visitors Pass section.
+>3. Click on the **Visit our Tours page** link to verify it works. 
+>4. Repeat process for **visit our calendar** link in the Seasonal Events & Attractions section.
+>5. Repeat process for **gothamgo** and **read our tips for visitors** link in the Safey section.
+>6. Repeat process for **ilovegotham** link in the Gotham State section.
+
+City Info page - Phone Numbers
+------------------------------
+>1. Specifically for smart phones. Click on the phone number links in the Useful Phone Numbers section to verify it will open the phone app on the device.
+>2. Repeat process for the Currency section.
+
+Scroll Up Feature
+-----------------
+>1. Go to Scroll Up feature at the bottom of the page.
+>2. Click on the icon to verify it takes you back to the top of the page you are on. 
+>3. Repeat process for every page.
+
+Browser test
+------------
+>1. Open Browser on device.
+>2. Enter https://liamoconnor87.github.io/VisitGotham/index.html#banner in to address bar. 
+>3. Verify the website works in the browser. 
+>4. Repeat process for multiple browsers - Internet Explorer, Google Chrome, Safari, Firefox, Opera, Vivaldi. 
+
+Responsive layout
+-----------------
+>1. Go to the Visit Gotham website. 
+>2. Make browser window full screen to verify the layout is correct. 
+>3. Resize the browser window smaller to check the layout responds to different sizes. 
+>4. You can also do this by using the Toggle device toolbar in Chrome. It lists a few specific device sizes that you can check the layout works with.
+
+Automated checks
+----------------
+>- I used the W3C's Validator to check my HTML and CSS code.
+
+Bugs or Problems
+----------------
+>- Navigation Bar is positoned slightly differently on the homepage to the other pages. 
+>- Preview of Gotham City Map doesnt center on Smart Phone device's.
+>- W3C's Validator picks up code errors to do with the Bootstrap's workframe. 
 
 
 Deployment
@@ -208,17 +286,17 @@ Github Pages was used to deploy this website. In order to do this you will need 
 >- There are two ways to create a repository depending on whether this is a new account or not. 
 
 >- For a new account the link to create a Github repository would be seen on the home page.
-> ![image](README_files/images/nw-ac-repo.png)
+> ![image](assets/README_files/images/nw-ac-repo.png)
 
 >- For an account that is not new your landing page will be your dashboard in which your looking for the **New** button in **green** on the left hand side of the page. 
-> ![image](README_files/images/create-repo.png)
+> ![image](assets/README_files/images/create-repo.png)
 
 >- Both of these steps will take you to the next page which is the Github Repository creation page.
 >- You will need to give your repository a name that is unique. Github will indicate this with **green tick** next to the name.
-> ![image](README_files/images/repo-pg.png)
+> ![image](assets/README_files/images/repo-pg.png)
 >- Fill up the other options given on the page and press **Create repository**. 
 >- Now its created, you need to push your code to the repository by using the command line.
-> ![image](README_files/images/repo-push.png)
+> ![image](assets/README_files/images/repo-push.png)
 
 >- From the command line you will need to do the following;
 >>- Change directory to where the files are located. For example your html file is located on your C drive on your desktop in a folder called test, you would use the **cd** commands to change directory to - C:User/desktop/test.
@@ -226,20 +304,27 @@ Github Pages was used to deploy this website. In order to do this you will need 
 >>- Then add the file you want to push. For example **git add test.html**
 >>- Then commit file. For example **git commit -m "first commit"**
 >>- At this point you will be following commands that Github has provided for pushing "an existing repositry."
->> ![image](README_files/images/exist-repo.png)
+>> ![image](assets/README_files/images/exist-repo.png)
 >>- The command line will then prompt you to provide your **Github** **Username** and then **Password**, in order for it to push the files to the repository you created.
 
 >- This is now ready to be deployed on to Github Pages. Refreshing the page at this point should change the screen and show that your file has been pushed to the repository.
->![image](README_files/images/repo.png)
+>![image](assets/README_files/images/repo.png)
 >- Now select **Settings** in the top right corner of the page and it should take you this tab.
->![image](README_files/images/settings.png)
+>![image](assets/README_files/images/settings.png)
 >- Scroll down to the GitHub Pages section and change the source tab from **None** to **master branch**.
->![image](README_files/images/masterbranch.png)
+>![image](assets/README_files/images/masterbranch.png)
 >- This will automatically refresh the page to update the changes.
 >- Scroll back down to the GitHub Pages section to find the address to your new published website. It should look similar to this. 
->![image](README_files/images/confirm-pub.png)
+>![image](assets/README_files/images/confirm-pub.png)
 
 >- Clicking on the link should take you to the hosted website. Hazar!
+
+Running Code Locally
+--------------------
+>- Go to GitHub Repositry.
+>- Click on the **Clone or Download** button in **green** and select **Download Zip**.
+>![image](assets/README_files/images/dwnld-repo.png)
+>- Once youve located the Zip file on your device. Open the files in your browser. 
 
 Credits
 =======
