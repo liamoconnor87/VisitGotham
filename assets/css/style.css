@@ -86,6 +86,11 @@ footer{
     color: rgb(212, 212, 212);
 }
 
+.contact-info a{
+    text-decoration: none;
+    color: rgb(212, 212, 212);
+}
+
 .social-networks li{
     display: inline;
 }
@@ -195,13 +200,17 @@ footer{
     width: 100%;
     text-align: center;
     margin-bottom: 20px;
-    color: rgb(175, 49, 33);
+    color: rgb(202, 176, 58);
     font-size: 30px;
 }
 
-.scroll-up i{
+.scroll-top a{
     text-decoration: none;
     color: inherit;
+}
+
+.scroll-top a:hover {
+    color: rgb(255, 255, 255);
 }
 
 /* Banner */
