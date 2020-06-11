@@ -254,10 +254,6 @@ footer{
 
 /* Landing Page */
 
-.relative{
-    position: relative;
-}
-
 .things-landing{
     float: left;
     background-color: rgb(236, 236, 236);
