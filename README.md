@@ -1,5 +1,5 @@
-Visit Gotham City Website Project - visitgotham.com
-===================================================
+Visit Gotham City Website Project
+=================================
 
 Visit Gotham is a tourism website designed to appeal to a broad audience and attract customers to visit the city. The website has a simple layout so users are able to easily navigate a wealth of information and accompish the goal that led them to the website in the first place. The website uses large photos to showcase the city, representing a place customers will want to visit.
 
@@ -158,6 +158,43 @@ Technologies Used
 Testing
 =======
 
+Header & Navigation Bar
+-----------------------
+>1. Go to Visit Gotham website.
+>2. Click on Things To Do link to verify it takes you to the Things To Do page.
+>3. Click on City Info link to verify it takes you to the City Info page.
+>4. Click on History link to verify it takes you to the History page.
+>3. Click on Visit Gotham logo to verify it takes you to the Home page.
+>5. Repreat process for every page. 
+
+Home page's links to Things To Do sections
+------------------------------------------
+>1. Click on the Gotham City Zoo link to verify it takes you to the Gotham City Zoo section on the Things To Do page.
+>2. Click on the Museums & Galleries link to verify it takes you to the Museums & Galleries section on the Things To Do page.
+>3. Click on the Educational Tours link to verify it takes you to the Educational Tours section on the Things To Do page.
+>4. Click on the Activities link to verify it takes you to the Activities section on the Things To Do page.
+>5. Click on the Sightseeing link to verify it takes you to the Sightseeing section on the Things To Do page.
+>6. Click on the Parks & Recreation link to verify it takes you to the Parks & Recreation section on the Things To Do page.
+>7. Click on the Nightlife link to verify it takes you to the Nightlife section on the Things To Do page.
+>8. Click on the Bars & Restaurants link to verify it takes you to the Bars & Restaurants section on the Things To Do page.
+>9. Click on the The Batman Memorial link to verify it takes you to the The Batman Memorial section on the Things To Do page.
+
+Home page's links to City Info sections
+---------------------------------------
+>1. Click on the Basic Information link to verify it takes you to the Basic Information section on the City Info page.
+>2. Click on the Geography/Weather/Climate link to verify it takes you to the Geography/Weather/Climate section on the City Info page.
+>3. Click on the Tours & Visitors Pass link to verify it takes you to the Tours & Visitors Pass section on the City Info page.
+>4. Click on the Transportation link to verify it takes you to the Transportation section on the City Info page.
+>5. Click on the Local Laws & Currency link to verify it takes you to the Local Laws & Currency section on the City Info page.
+
+Gotham City Map preview
+-----------------------
+>1. Go to the Gotham City Map link on the Home page.
+>2. Click on the Gotham City Map link to verify it shows a preview of the Gotham City map.
+>3. Click on the Close link to verify it closes the preview. 
+>4. Click outside the preview to verify it closes the preview.
+>5. Click on the Download link to verify it will download the map.
+
 
 
 
@@ -214,7 +251,6 @@ Content
 >- The text for Museum & Galleries section was copied and edited from the [NYCgo Museum & Galleries page](https://www.nycgo.com/things-to-do/museums-galleries)
 >- The text for Educational Tours section was copied and edited from the [Visit New York Educational Tours page](https://www.visitnewyork.com/educational-tours/)
 >- The text for Activities section was copied and edited from the [NYCgo Activities page](https://www.nycgo.com/broadway-show-tickets-nyc/)
->- The text for Sightseeing section was copied and edited from the []()
 >- The text for Park & Recreation section was copied and edited from the [NYC Park About page](https://www.nycgovparks.org/about)
 >- The text for Nightlife section was copied and edited from the [NYC Travel Online Nightlife page](https://nyctravelonline.wordpress.com/night-life/)
 >- The text for Bars & Restaurants section was copied and edited from the [Choose Chicago Food & Drink page](https://www.choosechicago.com/things-to-do/food-drink/)
