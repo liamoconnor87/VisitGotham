@@ -1,14 +1,3 @@
-import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
-
-
-@NgModule({
-    ...
-    imports: [
-        NgbModule,
-    ]
-})
-export class SurveysModule {}
-
 *{
   margin: 0;
   padding: 0;
