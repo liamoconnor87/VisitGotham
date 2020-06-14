@@ -137,7 +137,7 @@ Features Left to Implement
 
 >- Things to do sub catergories - Allows the user to see in more depth a list of things to do in the city including prices, links to activities and businesses associated to it.
 
-
+>- Map of City using a Modal - Allows the user to view the map in a better presentation. 
 Technologies Used
 =================
 
