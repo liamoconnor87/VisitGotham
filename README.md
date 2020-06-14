@@ -275,9 +275,8 @@ Automated checks
 
 Bugs or Problems
 ----------------
->- Navigation Bar is positoned slightly differently on the homepage to the other pages. 
->- Preview of Gotham City Map doesnt center on Smart Phone device's.
->- W3C's Validator picks up code errors to do with the Bootstrap's workframe. 
+- Modal wouldnt work without errors. 
+- Scroll up feature wouldnt work after creating a fixed bar. 
 
 
 
