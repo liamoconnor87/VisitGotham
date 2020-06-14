@@ -144,8 +144,6 @@ Technologies Used
 >- [HTML](https://html.com) - The project uses HTML to create the pages of the website. 
 >- [CSS](https://www.w3.org/Style/CSS) - The project uses CSS to style the websites pages. 
 >- [Fontawesome](https://fontawesome.com) - The project uses some icons from this Library to style some of the website.
->- [Bootstrap](https://getbootstrap.com) - The project uses this framework to create a Modal that previews a map of Gotham City.
->- [JavaScript](https://www.javascript.com) - The project uses some JavaScript through the Bootstrap framework to create the Modal that previews a map of Gotham City.
 >- [Git](https://git-scm.com) - The project uses to Git to push the project on to the Github repository.
 >- [Github](https://github.com) - The project uses Github repository to store the website.
 >- [Github Pages](https://pages.github.com) - The project uses Github pages to host the website.
