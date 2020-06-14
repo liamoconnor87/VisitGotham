@@ -1,9 +1,12 @@
 Visit Gotham City Website Project
 =================================
 
+[Visit Gotham City](https://liamoconnor87.github.io/VisitGotham/index.html)
+
 Visit Gotham is a tourism website designed to appeal to a broad audience and attract customers to visit the city. The website has a simple layout so users are able to easily navigate a wealth of information and accompish the goal that led them to the website in the first place. The website uses large photos to showcase the city, representing a place customers will want to visit.
 
 The features of the website make it useful for customers at any stage of their journey; before, during or after. The 'things to do' section is a useful hub of information on the many attactions Gotham has to offer, such as the Zoo, Educational Tours, Nightlife and The Batman Memorial. During a trip to Gotham the 'City info' section is great for Weather Updates, a City Map, Transportation and Local laws and Currency. Even once the trip is over the Newletter feature can keep you up to date on future events for your next visit.
+
 
 
 UX
@@ -33,9 +36,8 @@ For 'Geographical, Transportation, safety and Currency information' the 'City in
 
 Using all this information provided on the Visit Gotham website tourists will be able to safety plan and visit the City.
 
-Epics & User Stories
+User Stories
 --------------------
-
 >- I would like a Navigation Bar so I can navigate the Website.
 
 >>- As a User, I would like the websites logo on the Navigation Bar to take me back to the Home page.
@@ -106,12 +108,13 @@ Mockups
 
 [**History page**](assets/README_files/mockups/04-history.jpg)
 
+
+
 Features
 ========
 
 Exisiting Features
 ------------------
-
 >- Fixed navigation bar - Allows the user to access the other pages of the website without needing to scroll up to the top of the page.
 
 >- Scroll up feature -  Allows the user to go back up to the top of the page without needing to scroll up. 
@@ -132,12 +135,14 @@ Exisiting Features
 
 Features Left to Implement
 --------------------------
-
 >- Live Weather Update - Allows the user to see what the weather is currently in Gotham City and also projected weather for the comging week. 
 
 >- Things to do sub catergories - Allows the user to see in more depth a list of things to do in the city including prices, links to activities and businesses associated to it.
 
 >- Map of City using a Modal - Allows the user to view the map in a better presentation. 
+
+
+
 Technologies Used
 =================
 
@@ -151,6 +156,7 @@ Technologies Used
 >- [W3Schools](https://www.w3schools.com) - The project used helpful tutorials to help build the website. 
 >- [Validator](https://validator.w3.org) - The project used this website to validate teh HTML and CSS code for the website.
 >- [Adobe Photoshop](https://www.adobe.com/uk/products/photoshop.html) - The project used this software to design the layouts of pages, logos of businesses and to crop and edit images used on the website. 
+
 
 
 Testing
@@ -274,6 +280,7 @@ Bugs or Problems
 >- W3C's Validator picks up code errors to do with the Bootstrap's workframe. 
 
 
+
 Deployment
 ==========
 
@@ -324,12 +331,13 @@ Running Code Locally
 >![image](assets/README_files/images/dwnld-repo.png)
 >- Once youve located the Zip file on your device. Open the files in your browser. 
 
+
+
 Credits
 =======
 
 Content
 -------
-
 >- The text for Gotham Zoo section was copied and edited from the [Central Park Zoo About page](https://centralparkzoo.com/about)
 >- The text for Museum & Galleries section was copied and edited from the [NYCgo Museum & Galleries page](https://www.nycgo.com/things-to-do/museums-galleries)
 >- The text for Educational Tours section was copied and edited from the [Visit New York Educational Tours page](https://www.visitnewyork.com/educational-tours/)
@@ -344,7 +352,6 @@ Content
 
 Media
 -----
-
 The photos used in this site were obtained from the following;
 
 >- Index page top banner image from [Pexels](architectural-photography-of-tunnel-2088233)
@@ -356,7 +363,7 @@ The photos used in this site were obtained from the following;
 >- Museums & Galleries image for Index and Things To Do page from [Guggenheim Museum](https://www.guggenheim.org)
 >- Educational Tours image for Index and Things To Do page from [Chicago Tribune](https://www.chicagotribune.com/entertainment/ct-xpm-2014-05-07-ct-chicago-architecture-foundation-tours-20140507-story.html)
 >- Activities image for Index and Things To Do page from [Neighborhoods](https://www.neighborhoods.com/blog/6-winter-outdoor-activities-and-where-to-do-them-around-chicago)
->- Sightseeing image for Index and Things To Do page from [Riverwalk Chicago](https://riverwalkchicago.com/http:/riverwalkchicago.com/chicago-boat-tour/)
+>- Sightseeing image for Index and Things To Do page from [Destination 360](http://www.destination360.com/north-america/us/illinois/chicago/chicago-tours)
 >- Park & Recreation image for Index and Things To Do page from [Traveldigg](https://traveldigg.com/the-fascination-of-hyde-park-london-england/)
 >- Nightlife image for Index and Things To Do page from [Dancing Astonaut](https://dancingastronaut.com/2019/01/new-york-nightlife-sector-unsurprisingly-booming-according-new-economic-impact-study-city-nightlife-mayors-office/)
 >- Bars & Restaurants image for Index and Things To Do page from [Asia-Bars](https://www.asia-bars.com/wp-content/uploads/2013/07/catalunya-hong-kong-7.jpg)
@@ -374,14 +381,7 @@ The photos used in this site were obtained from the following;
 
 Acknowledgements
 ----------------
-
 >- I recieved inspiration for this project from [Visit New York](https://www.visitnewyork.com)
 >- I recieved inspiration for this project from [NYCgo](https://www.nycgo.com)
 >- I recieved inspiration for this project from [Central Park Zoo](https://centralparkzoo.com)
 >- I recieved mentorship on this project from Precious "Jedi Master" Ijege.
-
-
-
-
-
-
