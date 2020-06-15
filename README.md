@@ -98,15 +98,9 @@ User Stories
 >- As a User, on the City Info page I would like links to contact numbers and addresses, that are useful for when im visitng the city.
 >- As a User, I would like the websites layout to be responsive, so I can visit the website on different smart devices. 
 
-Mockups
--------
-[**Index page**](README_files/mockups/01-index.jpg)
-
-[**Things To Do page**](README_files/mockups/02-things-to-do.jpg)
-
-[**City Info page**](README_files/mockups/03-city-info.jpg)
-
-[**History page**](README_files/mockups/04-history.jpg)
+Wireframe
+---------
+I used Adobe Photoshop to create wireframes in desktop, tablet and phone view.
 
 
 
