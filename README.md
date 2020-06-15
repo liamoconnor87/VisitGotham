@@ -351,7 +351,11 @@ Do the same for each page.
 >>2. Click on the **assets** link.
 >>3. Click on the **css** link. 
 >>4. Click on the **style.css** file link. This should take you to style.css page displaying the code. From here you can highlight all the code and copy it. 
-
+>>5. Once copied, go to https://jigsaw.w3.org/css-validator/ and select the Direct Input tab.
+**add image here**
+>>6. Paste the code from the style.css file in to the box given.
+>>7. Click **check** to confirm that no errors or warnings show.
+**add image here**
 
 Bugs or Problems
 ----------------
