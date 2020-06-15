@@ -156,7 +156,8 @@ Technologies Used
 >- [Github Pages](https://pages.github.com) - The project uses Github pages to host the website.
 >- [Gitpod](https://gitpod.io) - The project uses Gitpod IDE to facilitate building the website.
 >- [W3Schools](https://www.w3schools.com) - The project used helpful tutorials to help build the website. 
->- [Validator](https://validator.w3.org) - The project used this website to validate teh HTML and CSS code for the website.
+>- [Validator](https://validator.w3.org) - The project used this website to validate the HTML for the website.
+>- [Jigsaw](https://jigsaw.w3.org/css-validator/) - The project used this website to validate the CSS for the website.
 >- [Adobe Photoshop](https://www.adobe.com/uk/products/photoshop.html) - The project used this software to design the layouts of pages, logos of businesses and to crop and edit images used on the website. 
 
 
@@ -269,9 +270,72 @@ Responsive layout
 >3. Resize the browser window smaller to check the layout responds to different sizes. 
 >4. You can also do this by using the Toggle device toolbar in Chrome. It lists a few specific device sizes that you can check the layout works with.
 
+
 Automated checks
 ----------------
->- I used the W3C's Validator to check my HTML and CSS code.
+I used the W3C's Validator's to check my HTML and CSS code. I did this three ways, here are the steps I took.
+**add images of both validator's here**
+
+>1. **Using the websites URL address to check the HTML code**
+>>1. Go to https://validator.w3.org and select the URI tab. 
+>>2. Enter https://liamoconnor87.github.io/VisitGotham/index.html into the address bar and click **Check**.
+>>3. Confirm that no errors or warnings show. 
+**add image here.**
+Do the same for each page. 
+>>4. Enter https://liamoconnor87.github.io/VisitGotham/things_to_do.html into the address bar and click **Check**.
+>>5. Confirm that no errors or warnings show.
+**add image here**
+>>6. Enter https://liamoconnor87.github.io/VisitGotham/city_info.html into the address bar and click **Check**.
+>>7. Confirm that no errors or warnings show.
+**add image here**
+>>6. Enter https://liamoconnor87.github.io/VisitGotham/history.html into the address bar and click **Check**.
+>>7. Confirm that no errors or warnings show.
+**add image here**
+>>6. Enter https://liamoconnor87.github.io/VisitGotham/gotham_map.html into the address bar and click **Check**.
+>>7. Confirm that no errors or warnings show.
+
+>2. **Using the websites URL address to check the CSS code**
+>>1. Go to https://jigsaw.w3.org/css-validator/ and select the URI tab. 
+>>2. Enter https://liamoconnor87.github.io/VisitGotham into the address bar and click **Check**.
+>>3. Confirm that no errors or warnings show.
+**add image here**
+
+>3. **Upload files to check the HTML code**
+>>1. Go to https://validator.w3.org and select the File Upload tab. 
+>>2. Upload index.html file and click **Check**.
+>>3. Confirm that no errors or warnings show. 
+**add image here.**
+Do the same for each page's file. 
+>>2. Upload things_to_do.html file and click **Check**.
+>>3. Confirm that no errors or warnings show.
+**add image here.**
+>>4. Upload city_info.html file and click **Check**.
+>>5. Confirm that no errors or warnings show.
+**add image here.**
+>>6. Upload history.html file and click **Check**.
+>>7. Confirm that no errors or warnings show.
+**add image here.**
+>>8. Upload gotham_map.html file and click **Check**.
+>>9. Confirm that no errors or warnings show.
+**add image here.**
+
+>4. **Upload file to check the CSS code**
+>>1. Go to https://jigsaw.w3.org/css-validator/ and select the File Upload tab.
+>>2. Upload style.css file and click **Check**.
+>>3. Confirm that no errors or warnings show.
+**add image here.**
+
+>5. **Input directly to check HTML code**
+>>1. Go to the repository - https://github.com/liamoconnor87/VisitGotham
+**add image here**
+>>2. Click on the index.html file link. This should take you to index.html page displaying the code. From here you can highlight all the code and copy it. 
+**add image here**
+>>3. Once copied, go to https://validator.w3.org and select the Direct Input tab.
+**add image here**
+>>4. Paste the code from the index.html file in to the box given.
+**add image here**
+>>5. Click on the **Check** button to confirm that no errors or warnings show.
+**add image here**
 
 Bugs or Problems
 ----------------
