@@ -288,11 +288,11 @@ Do the same for each page.
 >>6. Enter https://liamoconnor87.github.io/VisitGotham/city_info.html into the address bar and click **Check**.
 >>7. Confirm that no errors or warnings show.
 **add image here**
->>6. Enter https://liamoconnor87.github.io/VisitGotham/history.html into the address bar and click **Check**.
->>7. Confirm that no errors or warnings show.
+>>8. Enter https://liamoconnor87.github.io/VisitGotham/history.html into the address bar and click **Check**.
+>>9. Confirm that no errors or warnings show.
 **add image here**
->>6. Enter https://liamoconnor87.github.io/VisitGotham/gotham_map.html into the address bar and click **Check**.
->>7. Confirm that no errors or warnings show.
+>>10. Enter https://liamoconnor87.github.io/VisitGotham/gotham_map.html into the address bar and click **Check**.
+>>11. Confirm that no errors or warnings show.
 
 >2. **Using the websites URL address to check the CSS code**
 >>1. Go to https://jigsaw.w3.org/css-validator/ and select the URI tab. 
@@ -306,17 +306,17 @@ Do the same for each page.
 >>3. Confirm that no errors or warnings show. 
 **add image here.**
 Do the same for each page's file. 
->>2. Upload things_to_do.html file and click **Check**.
->>3. Confirm that no errors or warnings show.
-**add image here.**
->>4. Upload city_info.html file and click **Check**.
+>>4. Upload things_to_do.html file and click **Check**.
 >>5. Confirm that no errors or warnings show.
 **add image here.**
->>6. Upload history.html file and click **Check**.
+>>6. Upload city_info.html file and click **Check**.
 >>7. Confirm that no errors or warnings show.
 **add image here.**
->>8. Upload gotham_map.html file and click **Check**.
+>>8. Upload history.html file and click **Check**.
 >>9. Confirm that no errors or warnings show.
+**add image here.**
+>>10. Upload gotham_map.html file and click **Check**.
+>>11. Confirm that no errors or warnings show.
 **add image here.**
 
 >4. **Upload file to check the CSS code**
@@ -334,8 +334,24 @@ Do the same for each page's file.
 **add image here**
 >>4. Paste the code from the index.html file in to the box given.
 **add image here**
->>5. Click on the **Check** button to confirm that no errors or warnings show.
+>>5. Click **Check** to confirm that no errors or warnings show.
 **add image here**
+Do the same for each page.
+>>6. Copy and paste code from things_to_do.html file link on the repository page to the Validator and click **Check** to confirm that no errors or warnings show.
+**add image here**
+>>7. Copy and paste code from city_info.html file link on the repository page to the Validator and click **Check** to confirm that no errors or warnings show.
+**add image here**
+>>8. Copy and paste code from history.html file link on the repository page to the Validator and click **Check** to confirm that no errors or warnings show.
+**add image here**
+>>9. Copy and paste code from gotham_map.html file link on the repository page to the Validator and click **Check** to confirm that no errors or warnings show.
+**add image here**
+
+>6. **Input directly to check CSS code**
+>>1. Once again go to the repository - https://github.com/liamoconnor87/VisitGotham
+>>2. Click on the **assets** link.
+>>3. Click on the **css** link. 
+>>4. Click on the **style.css** file link. This should take you to style.css page displaying the code. From here you can highlight all the code and copy it. 
+
 
 Bugs or Problems
 ----------------
