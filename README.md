@@ -115,6 +115,8 @@ Features
 
 Exisiting Features
 ------------------
+>- **need to talk about each page and what it features.**
+
 >- Fixed navigation bar - Allows the user to access the other pages of the website without needing to scroll up to the top of the page.
 
 >- Scroll up feature -  Allows the user to go back up to the top of the page without needing to scroll up. 
@@ -170,8 +172,6 @@ Header & Navigation Bar
 >4. Click on History link to verify it takes you to the History page.
 >3. Click on Visit Gotham logo to verify it takes you to the Home page.
 >5. Repreat process for every page. 
-
-
 
 Home page's links to Things To Do sections
 ------------------------------------------
@@ -285,23 +285,6 @@ Deployment
 
 Github Pages was used to deploy this website. In order to do this you will need to take the following steps;
 
->- Go to the Github website and log in or create an account. You will need an account in order to create a repository for your website.
->- Log in to your account.
->- There are two ways to create a repository depending on whether this is a new account or not. 
-
->- For a new account the link to create a Github repository would be seen on the home page.
-> ![image](assets/README_files/images/nw-ac-repo.png)
-
->- For an account that is not new your landing page will be your dashboard in which your looking for the **New** button in **green** on the left hand side of the page. 
-> ![image](assets/README_files/images/create-repo.png)
-
->- Both of these steps will take you to the next page which is the Github Repository creation page.
->- You will need to give your repository a name that is unique. Github will indicate this with **green tick** next to the name.
-> ![image](assets/README_files/images/repo-pg.png)
->- Fill up the other options given on the page and press **Create repository**. 
->- Now its created, you need to push your code to the repository by using the command line.
-> ![image](assets/README_files/images/repo-push.png)
-
 >- From the command line you will need to do the following;
 >>- Change directory to where the files are located. For example your html file is located on your C drive on your desktop in a folder called test, you would use the **cd** commands to change directory to - C:User/desktop/test.
 >>- Run Git using the **git init** command.
@@ -347,7 +330,6 @@ Content
 >- The text for The Batman Memorial section was copied and edited from the [NYCgo 9/11 Memorial & Museum page](https://www.choosechicago.com/things-to-do/food-drink/)
 >- The text for the City Information page was copied and edited from the [NYCgo Basic Information page](https://www.nycgo.com/plan-your-trip/basic-information/)
 >- The text for the History page was copied and edited from the [DC Fandom Gotham City page](https://https://dc.fandom.com/wiki/Gotham_City/)
-
 
 Media
 -----

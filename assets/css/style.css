@@ -191,8 +191,6 @@ footer{
     color: rgb(255, 255, 255);
 }
 
-/* End of Footer */
-
 /* Scroll up feature */
 
 .scroll-top{
@@ -212,6 +210,8 @@ footer{
 .scroll-top a:hover {
     color: rgb(255, 255, 255);
 }
+
+/* End of Footer */
 
 /* Banner */
 
@@ -383,7 +383,7 @@ footer{
     text-decoration: none;
 }
 
-/* Gotham Map Modal - learnt from https://getbootstrap.com/docs/4.5/components/modal/ */
+/* Gotham Map */
 
 .g-preview{
     background-color: rgb(80, 80, 80);
@@ -395,13 +395,6 @@ footer{
     margin-left: auto;
     margin-right: auto;
 }
-
-/*
-.mod-cnt-edit{ 
-    border-radius: 0;
-    background-color: rgb(255, 255, 255);
-    margin: 15px;
-} */
 
 .map-cont{
     margin: inherit;
@@ -447,8 +440,6 @@ footer{
 /* End of Landing Page  */
 
 /* Things To Do */
-
-/* Flex learnt from https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp */
 
 .thg-section1{
     display: flex;
