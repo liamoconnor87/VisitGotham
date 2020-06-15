@@ -2,6 +2,7 @@ Visit Gotham City Website Project
 =================================
 
 **Website** - [Visit Gotham City](https://liamoconnor87.github.io/VisitGotham/index.html)
+
 ![image](README_files/images/homepage.png)
 
 Visit Gotham is a tourism website designed to appeal to a broad audience and attract customers to visit the city. The website has a simple layout so users are able to easily navigate a wealth of information and accompish the goal that led them to the website in the first place. The website uses large photos to showcase the city, representing a place customers will want to visit.
