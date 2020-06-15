@@ -398,10 +398,12 @@ Github Pages was used to deploy this website. In order to do this you will need 
 
 Running Code Locally
 --------------------
->- Go to GitHub Repositry.
->- Click on the **Clone or Download** button in **green** and select **Download Zip**.
+>- Go to GitHub Repositry. -https://github.com/liamoconnor87/VisitGotham
+>- Click on the **Clone or Download** button in **green** and and copy the URL link to the repository in the address box - https://github.com/liamoconnor87/VisitGotham.git
 >![image](README_files/images/dwnld-repo.png)
->- Once youve located the Zip file on your device. Open the files in your browser. 
+>- Head into your terminal and **cd** to the path where you would like to clone the repository.
+>- Type into terminal - **git clone https://github.com/liamoconnor87/VisitGotham.git**. This should download your repository to your designated folder.
+>- Once this is downloaded, you can run the files through your browser to check it works.
 
 
 
@@ -455,4 +457,4 @@ Acknowledgements
 >- I recieved inspiration for this project from [Visit New York](https://www.visitnewyork.com)
 >- I recieved inspiration for this project from [NYCgo](https://www.nycgo.com)
 >- I recieved inspiration for this project from [Central Park Zoo](https://centralparkzoo.com)
->- I recieved mentorship on this project from Precious "Jedi Master" Ijege.
+>- I recieved mentorship on this project from [Precious "Jedi Master" Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/)
