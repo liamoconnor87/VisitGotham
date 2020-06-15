@@ -1,7 +1,7 @@
 Visit Gotham City Website Project
 =================================
 
-[Visit Gotham City](https://liamoconnor87.github.io/VisitGotham/index.html)
+**Website** - [Visit Gotham City](https://liamoconnor87.github.io/VisitGotham/index.html)
 
 Visit Gotham is a tourism website designed to appeal to a broad audience and attract customers to visit the city. The website has a simple layout so users are able to easily navigate a wealth of information and accompish the goal that led them to the website in the first place. The website uses large photos to showcase the city, representing a place customers will want to visit.
 
@@ -100,13 +100,13 @@ User Stories
 
 Mockups
 -------
-[**Index page**](assets/README_files/mockups/01-index.jpg)
+[**Index page**](README_files/mockups/01-index.jpg)
 
-[**Things To Do page**](assets/README_files/mockups/02-things-to-do.jpg)
+[**Things To Do page**](README_files/mockups/02-things-to-do.jpg)
 
-[**City Info page**](assets/README_files/mockups/03-city-info.jpg)
+[**City Info page**](README_files/mockups/03-city-info.jpg)
 
-[**History page**](assets/README_files/mockups/04-history.jpg)
+[**History page**](README_files/mockups/04-history.jpg)
 
 
 
@@ -274,88 +274,94 @@ Responsive layout
 Automated checks
 ----------------
 I used the W3C's Validator's to check my HTML and CSS code. I did this three ways, here are the steps I took.
-**add images of both validator's here**
+
+**HTML**
+![image](README_files/images/html-checker.png)
+**CSS**
+![image](README_files/images/css-checker.png)
 
 >1. **Using the websites URL address to check the HTML code**
 >>1. Go to https://validator.w3.org and select the URI tab. 
 >>2. Enter https://liamoconnor87.github.io/VisitGotham/index.html into the address bar and click **Check**.
 >>3. Confirm that no errors or warnings show. 
-**add image here.**
+![image](README_files/images/urlindex.png)
 Do the same for each page. 
 >>4. Enter https://liamoconnor87.github.io/VisitGotham/things_to_do.html into the address bar and click **Check**.
 >>5. Confirm that no errors or warnings show.
-**add image here**
+![image](README_files/images/urlthings.png)
 >>6. Enter https://liamoconnor87.github.io/VisitGotham/city_info.html into the address bar and click **Check**.
 >>7. Confirm that no errors or warnings show.
-**add image here**
+![image](README_files/images/urlcityinfo.png)
 >>8. Enter https://liamoconnor87.github.io/VisitGotham/history.html into the address bar and click **Check**.
 >>9. Confirm that no errors or warnings show.
-**add image here**
+![image](README_files/images/urlhistory.png)
 >>10. Enter https://liamoconnor87.github.io/VisitGotham/gotham_map.html into the address bar and click **Check**.
 >>11. Confirm that no errors or warnings show.
+![image](README_files/images/urlgm.png)
 
 >2. **Using the websites URL address to check the CSS code**
 >>1. Go to https://jigsaw.w3.org/css-validator/ and select the URI tab. 
 >>2. Enter https://liamoconnor87.github.io/VisitGotham into the address bar and click **Check**.
 >>3. Confirm that no errors or warnings show.
-**add image here**
+![image](README_files/images/urlcss.png)
 
 >3. **Upload files to check the HTML code**
 >>1. Go to https://validator.w3.org and select the File Upload tab. 
 >>2. Upload index.html file and click **Check**.
 >>3. Confirm that no errors or warnings show. 
-**add image here.**
+![image](README_files/images/upldindex.png)
 Do the same for each page's file. 
 >>4. Upload things_to_do.html file and click **Check**.
 >>5. Confirm that no errors or warnings show.
-**add image here.**
+![image](README_files/images/upld-things.png)
 >>6. Upload city_info.html file and click **Check**.
 >>7. Confirm that no errors or warnings show.
-**add image here.**
+![image](README_files/images/upld-city.png)
 >>8. Upload history.html file and click **Check**.
 >>9. Confirm that no errors or warnings show.
-**add image here.**
+![image](README_files/images/upld-hist.png)
 >>10. Upload gotham_map.html file and click **Check**.
 >>11. Confirm that no errors or warnings show.
-**add image here.**
+![image](README_files/images/upld-gm.png)
 
 >4. **Upload file to check the CSS code**
 >>1. Go to https://jigsaw.w3.org/css-validator/ and select the File Upload tab.
 >>2. Upload style.css file and click **Check**.
 >>3. Confirm that no errors or warnings show.
-**add image here.**
+![image](README_files/images/upld-css.png)
 
 >5. **Input directly to check HTML code**
 >>1. Go to the repository - https://github.com/liamoconnor87/VisitGotham
-**add image here**
+![image](README_files/images/github-goth.png)
 >>2. Click on the index.html file link. This should take you to index.html page displaying the code. From here you can highlight all the code and copy it. 
-**add image here**
+![image](README_files/images/hl-code.png)
 >>3. Once copied, go to https://validator.w3.org and select the Direct Input tab.
-**add image here**
 >>4. Paste the code from the index.html file in to the box given.
-**add image here**
+![image](README_files/images/inputcode.png)
 >>5. Click **Check** to confirm that no errors or warnings show.
-**add image here**
+![image](README_files/images/index-input.png)
 Do the same for each page.
 >>6. Copy and paste code from things_to_do.html file link on the repository page to the Validator and click **Check** to confirm that no errors or warnings show.
-**add image here**
+![image](README_files/images/things-input.png)
 >>7. Copy and paste code from city_info.html file link on the repository page to the Validator and click **Check** to confirm that no errors or warnings show.
-**add image here**
+![image](README_files/images/cityinfo-input.png)
 >>8. Copy and paste code from history.html file link on the repository page to the Validator and click **Check** to confirm that no errors or warnings show.
-**add image here**
+![image](README_files/images/hist-input.png)
 >>9. Copy and paste code from gotham_map.html file link on the repository page to the Validator and click **Check** to confirm that no errors or warnings show.
-**add image here**
+![image](README_files/images/gothmap-input.png)
 
 >6. **Input directly to check CSS code**
 >>1. Once again go to the repository - https://github.com/liamoconnor87/VisitGotham
 >>2. Click on the **assets** link.
+![image](README_files/images/assets-folder.png)
 >>3. Click on the **css** link. 
+![image](README_files/images/css-folder.png)
 >>4. Click on the **style.css** file link. This should take you to style.css page displaying the code. From here you can highlight all the code and copy it. 
+![image](README_files/images/css-code.png)
 >>5. Once copied, go to https://jigsaw.w3.org/css-validator/ and select the Direct Input tab.
-**add image here**
 >>6. Paste the code from the style.css file in to the box given.
 >>7. Click **check** to confirm that no errors or warnings show.
-**add image here**
+![image](README_files/images/css-input.png)
 
 Bugs or Problems
 ----------------
@@ -375,18 +381,18 @@ Github Pages was used to deploy this website. In order to do this you will need 
 >>- Then add the file you want to push. For example **git add test.html**
 >>- Then commit file. For example **git commit -m "first commit"**
 >>- At this point you will be following commands that Github has provided for pushing "an existing repositry."
->> ![image](assets/README_files/images/exist-repo.png)
+>> ![image](README_files/images/exist-repo.png)
 >>- The command line will then prompt you to provide your **Github** **Username** and then **Password**, in order for it to push the files to the repository you created.
 
 >- This is now ready to be deployed on to Github Pages. Refreshing the page at this point should change the screen and show that your file has been pushed to the repository.
->![image](assets/README_files/images/repo.png)
+>![image](README_files/images/repo.png)
 >- Now select **Settings** in the top right corner of the page and it should take you this tab.
->![image](assets/README_files/images/settings.png)
+>![image](README_files/images/settings.png)
 >- Scroll down to the GitHub Pages section and change the source tab from **None** to **master branch**.
->![image](assets/README_files/images/masterbranch.png)
+>![image](README_files/images/masterbranch.png)
 >- This will automatically refresh the page to update the changes.
 >- Scroll back down to the GitHub Pages section to find the address to your new published website. It should look similar to this. 
->![image](assets/README_files/images/confirm-pub.png)
+>![image](README_files/images/confirm-pub.png)
 
 >- Clicking on the link should take you to the hosted website. Hazar!
 
@@ -394,7 +400,7 @@ Running Code Locally
 --------------------
 >- Go to GitHub Repositry.
 >- Click on the **Clone or Download** button in **green** and select **Download Zip**.
->![image](assets/README_files/images/dwnld-repo.png)
+>![image](README_files/images/dwnld-repo.png)
 >- Once youve located the Zip file on your device. Open the files in your browser. 
 
 
