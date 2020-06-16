@@ -145,7 +145,7 @@ the page. Once again to signify it's on individual importance, when you reach Th
 After this is the footer signifying the end of the page.
 
 ## City Info Page add link
-At the top of the page it has a hero image of Gotham Citys Town Hall. This is to represent a more offical or serious consideration when the user is on this page. 
+At the top of the page it has a hero image of Gotham City's Town Hall. This is to represent a more offical or serious consideration when the user is on this page. 
 The title of the page, City Information follows underneath as a way of reaffirming the users interest and what the page is about. 
 
 Following the title is a short official statement from the City on Covid-19. It is highlighted in red and white and covers the width of the page. This is 
@@ -158,10 +158,26 @@ In this section you also have links to other helpful material and phone numbers 
 After this is the footer signifying the end of the page.
 
 ## History Page add link 
+At the top of the page it has a hero image of Gotham City taken from Arkham Bridge. As this a page on Gotham's history this image of the skyline with cranes gave a good 
+representation of Gotham contineous improvement from its dark past. 
+The title of the page, Gotham's History follows underneath as a way of reaffirming the users interest and what the page is about.
 
+Underneath this the page is broken into the following 5 categories;
+- Folklore's Origins
+- 17th Century
+- 19th Century
+- 20th Century
+- Legend of Batman. 
 
+Each paragraph is broken up with images alternating in there postion as you go down the page as well as the paragraphs changing background colour from gray to black with white font. 
+Of course when the user comes to the Legend of Batman section the background is yellow and the font is black. Again to highlight its significance. All the images correlate with there related information. 
+Ie - Legend of Batman having photosnaps of Batman in the city. 
 
+After this is the footer signifying the end of the page.
 
+## Gotham City Map Preview add link
+This page simply displays a preview Map of Gotham City. To signify this, the image is centered on the page titled with Gotham City Map with a gray background behind it. 
+It has two features. A Return link to go back to the previous page and a download link so the user can keep copy should they visit. 
 
 
 
