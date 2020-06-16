@@ -94,6 +94,7 @@ User Stories
 Wireframe
 ---------
 I used Adobe Photoshop to create wireframes in desktop, tablet and phone view.
+**add links**
 
 
 
@@ -102,33 +103,49 @@ Features
 
 Exisiting Features
 ------------------
-- **need to talk about each page and what it features.**
+All 4 pages have a fixed Navigation bar that allows you at any point to go to each page. They also have the same footer, consisting of a Contact Us section, links to the 
+websites social media platforms, a Newsletter sign up feature and a links of the City's Business Partners. I used the font Ubuntu through out the website, which has a 
+simple and clean look to it. Each Page also has a hero (or) banner image at the top with a title. I wanted a consistent start to each page, but then change each way the 
+information is presented whilst keeping it inline with the style of website. The color scheme of the website was is a mix of Black, Gray and White. Which suits the gothic 
+feel of the City. I would then use accents of dark red and dark green to higlhight certain links or features. As well as yellow, mainly for sections to do with Batman in 
+order to signify these sections as special interest.
 
-- Fixed navigation bar - Allows the user to access the other pages of the website without needing to scroll up to the top of the page.
+##Landing Page
 
-- Scroll up feature -  Allows the user to go back up to the top of the page without needing to scroll up. 
+At the top of the landing page has a hero image which is a distant view of the Gotham City. This is representing the idea of space between the user and Gotham. 
+As you go down the page you see Gotham's slogan - "Your origin story starts here". This is designed to inspire the user further to choose Gotham as a 
+destination and to sell you the idea of a great adventure, a story you could tell. As well as allude to Gotham's past hero's and deliberately make the user align 
+themseleves with them. 
 
-- Smart device version - Allows the user to access the website on other smart devices. 
+The first section you come to is titled Things to do. It displays examples of things you can do in the city as a picture with a title underneath in a grid format. Each 
+image and title links to that section on the Things To DO page. When you hover over the titles the colour changes from gray and white to black and white. Except for 
+the Batman Memorial which goes from gray and white to black and yellow.
 
-- Clear layout & navigation - Simple layout and navigation allows the user to understand the website easily.
+After this is a second banner image, designed to show case the city again visually with some interesting architecture, but also show a divide between the first and second section. 
 
-- Preview of a map of Gotham City - Allows the user to preview and download a map of the city. 
+The second section is titled City Info. This displays a series of links to certain sections on the City Info page. For consistency again displayed in a grid format in dark 
+green and white, and as you hover over the title changes to black and white. 
 
-- Newsletter Sign Up - Allows users to sign up for a newsletter using their email address.
+After this is the footer signifying the end of the page. 
 
-- Contact Information - Allows users to contact the website directly using Postal Address, Phone Number and Email Address. 
+##Things To Do Page
 
-- Social Media Platforms - Allows users to connect with the website through it's social media pages.
+At the top of the page it has a hero image which is a bird's eye view of two people kayaking down one of Gotham's rivers on St Patricks day. The water is green, its an interesting 
+image that intices the user to continue down the page to learn about things you can do in the city. The green of the image also stays consistent with the colour scheme of the website.
 
-- Information about Gotham City - Allows users to obtain a wealth of information about the City; past and present. 
+The title of the page Things To Do follows underneath as a way of reaffirming the users interest and what the page is about. 
 
-Features Left to Implement
---------------------------
-- Live Weather Update - Allows the user to see what the weather is currently in Gotham City and also projected weather for the comging week. 
+The next section is broken up into nine categories with a brief desciption of things you can do in the city. These sections are the same as the landing page. Each catergory alternate 
+in presentation. At desktop view go the first catergory is displayed with the image on the left with information to the right in gray and white. This presnetation of the second catergory 
+is alternated to image on the right with the information on the left now in black and white. This style atlernates between these layouts and colours with each catergory as you go down 
+the page. Once again to signify it's on individual importance, when you reach The Batman Memorial section. The colour scheme changes to black and yellow. 
 
-- Things to do sub catergories - Allows the user to see in more depth a list of things to do in the city including prices, links to activities and businesses associated to it.
+After this is the footer signifying the end of the page.
 
-- Map of City using a Modal - Allows the user to view the map with a better presentation. 
+##City Info Page
+
+
+
 
 
 
@@ -139,7 +156,9 @@ Technologies Used
 
 [CSS](https://www.w3.org/Style/CSS) - The project uses CSS to style the websites pages.
 
-[Fontawesome](https://fontawesome.com) - The project uses some icons from this Library to style some of the website.
+[Google Fonts](https://fonts.google.com) - The poject uses this for a font on the website.
+
+[Fontawesome](https://fontawesome.com) - The project uses this for some icons from this Library to style some of the website.
 
 [Git](https://git-scm.com) - The project uses to Git to push the project on to the Github repository.
 
