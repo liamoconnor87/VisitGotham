@@ -103,14 +103,16 @@ Features
 
 Exisiting Features
 ------------------
-All 4 pages have a fixed Navigation bar that allows you at any point to go to each page. They also have the same footer, consisting of a Contact Us section, links to the 
-websites social media platforms, a Newsletter sign up feature and a links of the City's Business Partners. I used the font Ubuntu through out the website, which has a 
+All 4 pages have a fixed navigation bar that allows you at any point to go to each page. They also have the same footer, consisting of a Contact Us section, links to the 
+websites social media platforms, a Newsletter sign up feature, links to the City's Business Partners and a scroll to top feature that allows the user to pop straight back 
+to the top of the page. 
+I used the font Ubuntu through out the website, which has a 
 simple and clean look to it. Each Page also has a hero (or) banner image at the top with a title. I wanted a consistent start to each page, but then change each way the 
 information is presented whilst keeping it inline with the style of website. The color scheme of the website was is a mix of Black, Gray and White. Which suits the gothic 
 feel of the City. I would then use accents of dark red and dark green to higlhight certain links or features. As well as yellow, mainly for sections to do with Batman in 
 order to signify these sections as special interest.
 
-##Landing Page
+## Landing Page add link
 
 At the top of the landing page has a hero image which is a distant view of the Gotham City. This is representing the idea of space between the user and Gotham. 
 As you go down the page you see Gotham's slogan - "Your origin story starts here". This is designed to inspire the user further to choose Gotham as a 
@@ -128,7 +130,7 @@ green and white, and as you hover over the title changes to black and white.
 
 After this is the footer signifying the end of the page. 
 
-##Things To Do Page
+## Things To Do Page add link
 
 At the top of the page it has a hero image which is a bird's eye view of two people kayaking down one of Gotham's rivers on St Patricks day. The water is green, its an interesting 
 image that intices the user to continue down the page to learn about things you can do in the city. The green of the image also stays consistent with the colour scheme of the website.
@@ -142,7 +144,21 @@ the page. Once again to signify it's on individual importance, when you reach Th
 
 After this is the footer signifying the end of the page.
 
-##City Info Page
+## City Info Page add link
+At the top of the page it has a hero image of Gotham Citys Town Hall. This is to represent a more offical or serious consideration when the user is on this page. 
+The title of the page, City Information follows underneath as a way of reaffirming the users interest and what the page is about. 
+
+Following the title is a short official statement from the City on Covid-19. It is highlighted in red and white and covers the width of the page. This is 
+designed to give it more relevance and importance for the user to see it.
+
+Next is the City Information section. Its in an article format with a gray background and black font. This is to convey the information in a more serious tone and 'matter of fact' 
+and is broken up into paragraphs that are easily readable for the user. 
+In this section you also have links to other helpful material and phone numbers that the user might need when visiting Gotham. 
+
+After this is the footer signifying the end of the page.
+
+## History Page add link 
+
 
 
 
