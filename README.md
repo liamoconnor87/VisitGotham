@@ -168,8 +168,6 @@ Technologies Used
 
 [Gitpod](https://gitpod.io) - The project uses Gitpod IDE to facilitate building the website.
 
-[W3Schools](https://www.w3schools.com) - The project used helpful tutorials to help build the website. 
-
 [Validator](https://validator.w3.org) - The project used this website to validate the HTML for the website.
 
 [Jigsaw](https://jigsaw.w3.org/css-validator/) - The project used this website to validate the CSS for the website.
@@ -180,7 +178,7 @@ Technologies Used
 
 Testing
 =======
-Is on a seperate document - [testing.md](README_files/testing.md)
+Is on a seperate document - [testing.md](testing.md)
 
 
 
@@ -189,26 +187,17 @@ Deployment
 
 Github Pages was used to deploy this website. In order to do this you will need to take the following steps;
 
-From the command line you will need to do the following;
->1. Change directory to where the files are located. For example your html file is located on your C drive on your desktop in a folder called test, you would use the **cd** commands to change directory to - C:User/desktop/test.
->2. Run Git using the **git init** command.
->3. Then add the file you want to push. For example **git add test.html**
->4. Then commit file. For example **git commit -m "first commit"**
->5. At this point you will be following commands that Github has provided for pushing "an existing repositry."
->![image](README_files/images/exist-repo.png)
->6. The command line will then prompt you to provide your **Github** **Username** and then **Password**, in order for it to push the files to the repository you created.
-
->7. This is now ready to be deployed on to Github Pages. Refreshing the page at this point should change the screen and show that your file has been pushed to the repository.
+>1. Go to the GitHub repository.
 >![image](README_files/images/repo.png)
->8. Now select **Settings** in the top right corner of the page and it should take you this tab.
+>2. Now select **Settings** in the top right corner of the page and it should take you this tab.
 >![image](README_files/images/settings.png)
->9. Scroll down to the GitHub Pages section and change the source tab from **None** to **master branch**.
+>3. Scroll down to the GitHub Pages section and change the source tab from **None** to **master branch**.
 >![image](README_files/images/masterbranch.png)
->10. This will automatically refresh the page to update the changes.
->11. Scroll back down to the GitHub Pages section to find the address to your new published website. It should look similar to this. 
+>4. This will automatically refresh the page to update the changes.
+>5. Scroll back down to the GitHub Pages section to find the address to your new published website. It should look similar to this. 
 >![image](README_files/images/confirm-pub.png)
 
->12. Clicking on the link should take you to the hosted website. Hazar!
+>6. Clicking on the link should take you to the hosted website. **Hazar!**
 
 Running Code Locally
 --------------------
@@ -236,6 +225,8 @@ Content
 - The text for The Batman Memorial section was copied and edited from the [NYCgo 9/11 Memorial & Museum page](https://www.choosechicago.com/things-to-do/food-drink/)
 - The text for the City Information page was copied and edited from the [NYCgo Basic Information page](https://www.nycgo.com/plan-your-trip/basic-information/)
 - The text for the History page was copied and edited from the [DC Fandom Gotham City page](https://https://dc.fandom.com/wiki/Gotham_City/)
+- The CSS flex feature used in the layout of website was from the tutorials on [W3Schools](https://www.w3schools.com)
+- The form feature used in this was taken and adapted from the Code Institue Exercise "Love Running" [Code Institue](codeinstitute.net/)
 
 Media
 -----
