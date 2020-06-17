@@ -112,9 +112,9 @@ information is presented whilst keeping it inline with the style of website. The
 feel of the City. I would then use accents of dark red and dark green to higlhight certain links or features. As well as yellow, mainly for sections to do with Batman in 
 order to signify these sections as special interest.
 
-## Landing Page add link
+## [Landing Page](https://liamoconnor87.github.io/VisitGotham/index.html)
 
-At the top of the landing page has a hero image which is a distant view of the Gotham City. This is representing the idea of space between the user and Gotham. 
+Top of the landing page has a hero image which is a distant view of the Gotham City. This is representing the idea of space between the user and Gotham. 
 As you go down the page you see Gotham's slogan - "Your origin story starts here". This is designed to inspire the user further to choose Gotham as a 
 destination and to sell you the idea of a great adventure, a story you could tell. As well as allude to Gotham's past hero's and deliberately make the user align 
 themseleves with them. 
@@ -130,7 +130,7 @@ green and white, and as you hover over the title changes to black and white.
 
 After this is the footer signifying the end of the page. 
 
-## Things To Do Page add link
+## [Things To Do Page](https://liamoconnor87.github.io/VisitGotham/things_to_do.html)
 
 At the top of the page it has a hero image which is a bird's eye view of two people kayaking down one of Gotham's rivers on St Patricks day. The water is green, its an interesting 
 image that intices the user to continue down the page to learn about things you can do in the city. The green of the image also stays consistent with the colour scheme of the website.
@@ -144,7 +144,7 @@ the page. Once again to signify it's on individual importance, when you reach Th
 
 After this is the footer signifying the end of the page.
 
-## City Info Page add link
+## [City Info Page](https://liamoconnor87.github.io/VisitGotham/city_info.html)
 At the top of the page it has a hero image of Gotham City's Town Hall. This is to represent a more offical or serious consideration when the user is on this page. 
 The title of the page, City Information follows underneath as a way of reaffirming the users interest and what the page is about. 
 
@@ -157,7 +157,7 @@ In this section you also have links to other helpful material and phone numbers 
 
 After this is the footer signifying the end of the page.
 
-## History Page add link 
+## [History Page](https://liamoconnor87.github.io/VisitGotham/history.html)
 At the top of the page it has a hero image of Gotham City taken from Arkham Bridge. As this a page on Gotham's history this image of the skyline with cranes gave a good 
 representation of Gotham contineous improvement from its dark past. 
 The title of the page, Gotham's History follows underneath as a way of reaffirming the users interest and what the page is about.
@@ -175,7 +175,7 @@ Ie - Legend of Batman having photosnaps of Batman in the city.
 
 After this is the footer signifying the end of the page.
 
-## Gotham City Map Preview add link
+## [Gotham City Map Preview](https://liamoconnor87.github.io/VisitGotham/gotham_map.html)
 This page simply displays a preview Map of Gotham City. To signify this, the image is centered on the page titled with Gotham City Map with a gray background behind it. 
 It has two features. A Return link to go back to the previous page and a download link so the user can keep copy should they visit. 
 
