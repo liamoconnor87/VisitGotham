@@ -1,13 +1,14 @@
 Testing
 =======
 
-**As a User, I would like a Navigation Bar so I can easily navigate the Website.**
-----------------------------------------------------------------------------------
+**As a User, I would like a Navigation Bar, so I can easily navigate the Website.**
+-----------------------------------------------------------------------------------
 
-- User goes to home page of the website, and the navigation bar is fixed to the top of the page. User can scroll down the page with the navigation bar still there for them to click on if they want to go to another page. 
+- At the top of the website the user will see that the navigation bar is fixed to the top of the page. User can scroll down the page 
+with the navigation bar still there for them to click on if they want to go to another page. 
 
 - Its layout is simple, using only black and white colouring. If the user hovers over a link it changes to green and underlines the heading. 
-- Each link takes you to its page - Things To Do, City Info & History. When on these pages its highlighted in green and underlined in the navigation bar.
+- Each link takes you to its page; Things To Do, City Info & History. When on these pages its highlighted in green and underlined in the navigation bar.
 - The Visit Gotham logo takes you back to the home page.
 
 Steps taken -
@@ -20,7 +21,7 @@ Steps taken -
 >6. Click on History link to verify it takes you to the History page.
 >7. Verify the link on this page in navigation bar is highlighted in green with underlining. 
 >8. Click on Visit Gotham logo to verify it takes you to the Home page.
->9. Repreat process for every page. 
+>9. Repeat process for every page. 
 
 ![image](README_files/images/navbar.png)
 ![image](README_files/images/nb-hl.png)
@@ -28,8 +29,8 @@ Steps taken -
 **As a User, I would like the Home Page to have links to each section within the Things To Do page.**
 ----------------------------------------------------------------------------------------------------
 
-- User scrolls down the home page, to the Things To Do section. All catergories are displayed in a grid layout.
-- The User can click on each catergory and will take them to that section on the Things To Do page. 
+- User scrolls down the home page, to the Things To Do section. All categories are displayed in a grid layout.
+- The User can click on each category and will take them to that section on the Things To Do page. 
 
 Steps taken -
 
@@ -41,15 +42,15 @@ Steps taken -
 >6. Click on the Parks & Recreation link to verify it takes you to the Parks & Recreation section on the Things To Do page.
 >7. Click on the Nightlife link to verify it takes you to the Nightlife section on the Things To Do page.
 >8. Click on the Bars & Restaurants link to verify it takes you to the Bars & Restaurants section on the Things To Do page.
->9. Click on the The Batman Memorial link to verify it takes you to the The Batman Memorial section on the Things To Do page.
+>9. Click on the Batman Memorial link to verify it takes you to the Batman Memorial section on the Things To Do page.
 
 ![image](README_files/images/ttd-sec.png)
 
 **As a User, I would like the Home Page to have links to each section within the City Info page.**
 --------------------------------------------------------------------------------------------------
 
-- User scrolls down the home page, to the City Info section. All catergories are displayed in a grid layout.
-- The User can click on each catergory and will take them to that section on the City Info page.
+- User scrolls down the home page, to the City Info section. All categories are displayed in a grid layout.
+- The User can click on each category and will take them to that section on the City Info page.
 
 Steps taken - 
 
@@ -64,8 +65,9 @@ Steps taken -
 **As a User, I would like to be able to preview and download a map of Gotham City.**
 -------------------------------------------------------------------------------------
 
-- User scrolls down the home page to the City Info section where they can find a link to the Gotham City Map. The User can click on the link and it will taken them to a preview of the Gotham City Map.
-- The preview is clearly titled, with link to return back to the home page and also a link to downlaod the map.
+- User scrolls down the home page to the City Info section where they can find a link to the Gotham City Map. The User can click on the 
+link and it will tak them to a preview of the Gotham City Map.
+- The preview is clearly titled, with a link to return to the home page and also a link to download the map.
 - The User also has a link on to download the map on the City Info page.
 
 Steps taken - 
@@ -75,7 +77,7 @@ Steps taken -
 >3. Click on the Return link to verify it returns you to the homepage. 
 >4. Click on the Download link to verify it will download to the device.
 >5. Go to the City Info page.
->6. Go to the Georgraphy section. 
+>6. Go to the Geography section. 
 >7. Click on the Click here to download a Map of Gotham City link to verify it downloads the map to the device.
 
 ![image](README_files/images/gm-pre.png)
@@ -83,13 +85,15 @@ Steps taken -
 
 **Bugs and Problems**
 
-I went back and forth between its current html preview page and using a Bootstrap framework to create a Modal. Unfortunately, even though I was successful in implementing this. I couldnt get the Modal to pass through a Validator without errors from the Bootstrap framework. If I had more time I would have tried to solve the issue. 
+I went back and forth between its current html preview page and using a Bootstrap framework to create a Modal. Unfortunately, 
+even though I was successful in implementing this. I couldn't get the Modal to pass through a Validator without errors from the 
+Bootstrap framework, if I had more time I would have tried to solve the issue. 
 
-**As a User, I would like to be able to contact information of the website so I can speak to them directly.**
--------------------------------------------------------------------------------------------------------------
+**As a User, I would like contact information from the website, so I can speak to them directly.**
+--------------------------------------------------------------------------------------------------
 
 - User can scroll down to the bottom of any page in the footer and find the contact information of the website. 
-- User can also click on the email address or phone number directly rather then enter the details manually.
+- User can also click on the email address or phone number directly rather than enter the details manually.
 
 Steps taken - 
 
@@ -101,7 +105,8 @@ Steps taken -
 **As a User, I would like to be able to see which social media platforms the website is on.**
 ---------------------------------------------------------------------------------------------
 
-- User can scroll down to the bottom of any page in the footer and find the social media links for the website. Each icon will take the user to its corresponding platform. 
+- User can scroll down to the bottom of any page in the footer and find the social media links for the website. Each icon will 
+take the user to its corresponding platform. 
 
 Steps taken - 
 
@@ -113,7 +118,8 @@ Steps taken -
 **As a User, I would like a list of the business partners associated with Gotham City.**
 ----------------------------------------------------------------------------------------
 
-- User can scroll down to the bottom of any page in the footer and find links to Gotham's business partners as the companoes logo. Each logo will take the user to its corresponding social platform.
+- User can scroll down to the bottom of any page in the footer and find links to Gotham's business partners as the companies logo. 
+Each logo will take the user to its corresponding social platform.
 
 Steps taken - 
 
@@ -122,11 +128,11 @@ Steps taken -
 >3. Repeat for each business partner.
 >4. Repeat process for every page.
 
-**As a User, I would like to be able to enter my email address, so I can subcribe to the websites newsletter.**
----------------------------------------------------------------------------------------------------------------
+**As a User, I would like to be able to enter my email address, so I can subscribe to the website's newsletter.**
+-----------------------------------------------------------------------------------------------------------------
 
 - User can scroll down to the bottom of any page in the footer and find Newsletter sign up section with an input field. 
-- User can enter a valid email address and click Sign Me Up! to register for the newsletter.
+- User can enter a valid email address and click 'Sign Me Up!' to register for the newsletter.
 
 Steps taken -
 
@@ -140,7 +146,8 @@ Steps taken -
 
 **As a User, I would like a scroll up feature at the bottom of each page, so I am able to go back to the top of the page.**
 
-- User can scroll down to the bottom of any page and in the footer find an up arrow icon that they can click, which will take them back to the top of that page. 
+- User can scroll down to the bottom of any page and in the footer find an up arrow icon that they can click, which will take them 
+back to the top of that page. 
 
 Steps taken - 
 
@@ -149,14 +156,17 @@ Steps taken -
 >3. Repeat process for every page.
 
 **Bugs and Problems**
-Initially when I implemented this feature I made it scroll up to the top of the page by linking it to the Navigation bar. However a problem occured when I decided to make the navigation bar fixed, the scroll up bar visually didnt appear to work. I fixed this by changing the link from the navigation bar to the hero image at the top of the page. 
+Initially when I implemented this feature I made it scroll up to the top of the page by linking it to the Navigation bar, however a
+ problem occurred when I decided to make the navigation bar fixed, the scroll up bar visually didn't appear to work. I fixed this by 
+ changing the link from the navigation bar to the hero image at the top of the page. 
 
-**As a User, on the City Info page I would like information and links to contact numbers and addresses, that are useful for when im visitng the city.**
+**As a User, on the City Info page I would like information and links to contact numbers and addresses, that are useful for when I'm visiting the city.**
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- The User can go to the City Info page and find useful and important information they would need as well as contact numbers and addresses they could utilise when visitng the city. 
+- The User can go to the City Info page and find useful and important information they would need as well as contact numbers and 
+addresses they could utilise when visiting the city. 
 - User can click on website links to take them to relevant pages.
-- User can click on phone numbers directly rather then enter the details manually.
+- User can click on phone numbers directly rather than enter the details manually.
 
 Steps taken - 
 
@@ -166,13 +176,14 @@ Steps taken -
 >4. Repeat process for **visit our calendar** link in the Seasonal Events & Attractions section.
 >5. Repeat process for **911**, **611**, **818-GOTHAM 468-426** and **411** links in the Useful Phone Numbers section.
 >6. Repeat process for **275-157-9586** and **146-432-7929** links in the Currency section.
->7. Repeat process for **gothamgo**, **411** and **read our tips for visitors** link in the Safey section.
+>7. Repeat process for **gothamgo**, **411** and **read our tips for visitors** link in the Saftey section.
 >8. Repeat process for **ilovegotham** link in the Gotham State section.
 
 **Websites responsiveness**
 ---------------------------
 
-Website responsive layout was primarily tested on Google Chrome, Opera and Vivaldi using the Developer Tools. The website also worked well with Internet Explorer, Safari and Firefox.
+Website responsive layout was primarily tested on Google Chrome, Opera and Vivaldi using the Developer Tools. 
+The website also worked well with Internet Explorer, Safari and Firefox.
 The website also works well with smart devices.
 
 ## Desktop View's
@@ -250,11 +261,11 @@ The website also works well with smart devices.
 
 **Bugs and Problems**
 
-I initally wrote the code with each title and image within its own individual tag and anchor. 
+I initally wrote the code with each title and image within it's own individual tag and anchor. 
 ![image](README_files/images/code1.png)
 
-This became problematic for a responsive layout. As the screen size changed all the tags moved independently and away from there correlating title. 
-I fixed this by wrapping an image and its correlating title with a parent element.
+This became problematic for a responsive layout. As the screen size changed all the tags moved independently and away from there 
+correlating title. I fixed this by wrapping an image and it's correlating title with a parent element.
 ![image](README_files/images/code2.png)
 
 I struggled to get this layout to work responsively. I fixed this by using the flex-wrap property in CSS.
@@ -263,7 +274,7 @@ I struggled to get this layout to work responsively. I fixed this by using the f
 Automated checks
 ================
 
-I used the W3C's Validator's to check my HTML and CSS code. I did this three ways, here are the steps I took.
+I used the W3C's Validators to check my HTML and CSS code. I did this three ways, here are the steps I took.
 
 >**HTML**
 >![image](README_files/images/html-checker.png)
