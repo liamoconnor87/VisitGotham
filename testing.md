@@ -251,10 +251,12 @@ The website also works well with smart devices.
 **Bugs and Problems**
 
 I initally wrote the code with each title and image within its own individual tag and anchor. 
-![image](README_files/images/code1.png) 
+![image](README_files/images/code1.png)
+
 This became problematic for a responsive layout. As the screen size changed all the tags moved independently and away from there correlating title. 
 I fixed this by wrapping an image and its correlating title with a parent element.
 ![image](README_files/images/code2.png)
+
 I struggled to get this layout to work responsively. I fixed this by using the flex-wrap property in CSS.
 ![image](README_files/images/code3.png)
 
