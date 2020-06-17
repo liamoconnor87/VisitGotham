@@ -22,7 +22,8 @@ Steps taken -
 >8. Click on Visit Gotham logo to verify it takes you to the Home page.
 >9. Repreat process for every page. 
 
-**add images**
+![image](README_files/images/navbar.png)
+![image](README_files/images/nb-hl.png)
 
 **As a User, I would like the Home Page to have links to each section within the Things To Do page.**
 ----------------------------------------------------------------------------------------------------
@@ -42,7 +43,7 @@ Steps taken -
 >8. Click on the Bars & Restaurants link to verify it takes you to the Bars & Restaurants section on the Things To Do page.
 >9. Click on the The Batman Memorial link to verify it takes you to the The Batman Memorial section on the Things To Do page.
 
-**add images** 
+![image](README_files/images/ttd-sec.png)
 
 **As a User, I would like the Home Page to have links to each section within the City Info page.**
 --------------------------------------------------------------------------------------------------
@@ -58,7 +59,7 @@ Steps taken -
 >4. Click on the Transportation link to verify it takes you to the Transportation section on the City Info page.
 >5. Click on the Local Laws & Currency link to verify it takes you to the Local Laws & Currency section on the City Info page.
 
-**add images**
+![image](README_files/images/ci-sec.png)
 
 **As a User, I would like to be able to preview and download a map of Gotham City.**
 -------------------------------------------------------------------------------------
@@ -77,7 +78,8 @@ Steps taken -
 >6. Go to the Georgraphy section. 
 >7. Click on the Click here to download a Map of Gotham City link to verify it downloads the map to the device.
 
-**add images**
+![image](README_files/images/gm-pre.png)
+![image](README_files/images/ci-gm.png)
 
 **Bugs and Problems**
 
@@ -133,7 +135,8 @@ Steps taken -
 >3. Try to submit the form with an invalid email address and verify that the relevant error message appears.
 >4. Try to submit the form with a valid email address to verify that as successful message appears. 
 
-**add images**
+![image](README_files/images/be-frm.png)
+![image](README_files/images/em-cfrm.png)
 
 **As a User, I would like a scroll up feature at the bottom of each page, so I am able to go back to the top of the page.**
 
@@ -172,24 +175,88 @@ Steps taken -
 Website responsive layout was primarily tested on Google Chrome, Opera and Vivaldi using the Developer Tools. The website also worked well with Internet Explorer, Safari and Firefox.
 The website also works well with smart devices.
 
-## Desktop View's ##
-**images of index, things, city, hist and map page**
+## Desktop View's
+
+>**Home page**
+![image](README_files/images/indexpage.png)
+
+>**Things To Do page**
+![image](README_files/images/thingspage.png)
+
+>**City Info page**
+![image](README_files/images/citypage.png)
+
+>**History page**
+![image](README_files/images/histpage.png)
+
+>**Gotham Map page**
+![image](README_files/images/gmpage.png)
 
 ## Ipad Pro View's ##
-**images of index, things, city, hist and map page**
+
+>**Home page**
+![image](README_files/images/iproind.png)
+
+>**Things To Do page**
+![image](README_files/images/iprothings.png)
+
+>**City Info page**
+![image](README_files/images/iprocity.png)
+
+>**History page**
+![image](README_files/images/iprohist.png)
+
+>**Gotham Map page**
+![image](README_files/images/iprogm.png)
 
 ## Ipad View's ##
-**images of index, things, city, hist and map page**
 
-## Iphone View's ##
-**images of index, things, city, hist and map page**
+>**Home page**
+![image](README_files/images/ipadind.png)
+
+>**Things To Do page**
+![image](README_files/images/ipadthg.png)
+
+>**City Info page**
+![image](README_files/images/ipadcity.png)
+
+>**History page**
+![image](README_files/images/ipadhist.png)
+
+>**Gotham Map page**
+![image](README_files/images/ipadgm.png)
+
+## Smart Phone View's ##
+
+>**Home page**
+>
+>![image](README_files/images/sp-ind.png)
+
+>**Things To Do page**
+>
+>![image](README_files/images/sp-thng.png)
+
+>**City Info page**
+>
+>![image](README_files/images/sp-city.png)
+
+>**History page**
+>
+>![image](README_files/images/sp-hist.png)
+
+>**Gotham Map page**
+>
+>![image](README_files/images/sp-gm.png)
 
 **Bugs and Problems**
 
-I initally wrote the code with each title and image within its own individual tag and anchor. **(show example)** Three img tags in a line and then three h tags. This became problematic for a responsive layout. As the screen size changed all the tags moved independently and away from there correlating title. 
-I fixed this by wrapping an image and its correlating title with a parent element. 
-
-I struggled to get this layout to work responsively. I fixed this by using the flew-wrap protperty in CSS.
+I initally wrote the code with each title and image within its own individual tag and anchor. 
+![image](README_files/images/code1.png) 
+This became problematic for a responsive layout. As the screen size changed all the tags moved independently and away from there correlating title. 
+I fixed this by wrapping an image and its correlating title with a parent element.
+![image](README_files/images/code2.png)
+I struggled to get this layout to work responsively. I fixed this by using the flex-wrap property in CSS.
+![image](README_files/images/code3.png)
 
 Automated checks
 ================
