@@ -5,11 +5,14 @@ Visit Gotham City Website Project
 
 ![image](README_files/images/homepage.png)
 
-Visit Gotham is a tourism website designed to appeal to a broad audience and attract customers to visit the city. The website has a simple layout so users are able to easily navigate a wealth of information and accompish the goal that led them to the website in the first place. The website uses large photos to showcase the city, representing a place customers will want to visit.
+Visit Gotham is a tourism website designed to appeal to a broad audience and attract customers to visit the city. The website has a simple layout so users are able to 
+easily navigate a wealth of information and accomplish the goal that led them to the website in the first place. The website uses large photos to showcase the city, 
+representing a place customers will want to visit.
 
-The features of the website make it useful for customers at any stage of their journey; before, during or after. The 'things to do' section is a useful hub of information on the many attactions Gotham has to offer, such as the Zoo, Educational Tours, Nightlife and The Batman Memorial. During a trip to Gotham the 'City info' section is great for Weather Updates, a City Map, Transportation and Local laws and Currency. Even once the trip is over the Newletter feature can keep you up to date on future events for your next visit.
-
-
+The features of the website make it useful for customers at any stage of their journey; before, during or after. The 'things to do' section is a useful hub of information 
+on the many attractions Gotham has to offer, such as the Zoo, Educational Tours, Nightlife and The Batman Memorial. During a trip to Gotham the 'City info' section is great 
+for Weather Updates, a City Map, Transportation and Local laws and Currency. Even once the trip is over the Newsletter feature can keep you up to date on future events for 
+your next visit.
 
 UX
 ==
@@ -20,15 +23,15 @@ This website is focused at providing helpful information for users and attractin
 - Things to see and do
 - Culture and history of the City
 - Geographical info
-- Tranportation info
+- Transportation info
 - Safety info
 - Currency info
 
 The Visit Gotham website is the best place to find all the above information in one place and is easy to use and navigate. For users looking for 'Places to visit' and 'Things to see and do' the websites 'Things to do' section has following sub-sections; 
 
->Gotham Zoo, Museums & Galleries, Educational Tours, Activities, Sightseeing, Parks & Recreation, Nightlife, Bars & Resaurants and The Batman Memorial. 
+>Gotham City Zoo, Museums & Galleries, Educational Tours, Activities, Sightseeing, Parks & Recreation, Nightlife, Bars & Restaurants and The Batman Memorial. 
 
-For 'Culture and history of the City' the 'History' section has information on the follow; 
+For 'Culture and history of the City' the 'History' section has information on the following; 
 
 >Folklore origins, 17th, 19th and 20th Century and the Legend of Batman. 
 
@@ -40,9 +43,9 @@ Using all this information provided on the Visit Gotham website tourists will be
 
 User Stories
 --------------------
-- I would like a Navigation Bar so I can navigate the Website.
+- I would like a Navigation Bar, so I can navigate the Website.
 
-- As a User, I would like the websites logo on the Navigation Bar to take me back to the Home page.
+- As a User, I would like the website's logo on the Navigation Bar to take me back to the Home page.
 - As a User, I would like a link on the Navigation Bar to the Things To Do page, so I can go to the Things To Do page.
 - As a User, I would like a link on the Navigation Bar to the City Info, so I can go to the City Info page.
 - As a User, I would like a link on the Navigation Bar to the History page, so I can go to the History page.
@@ -77,9 +80,9 @@ User Stories
 - As a User, I would like a link to the websites Facebook page, so I can visit there Facebook profile.
 - As a User, I would like a link to the websites Twitter page, so I can visit there Twitter profile.
 - As a User, I would like a link to the websites Instagram page, so I can visit there Instagram profile.
-- As a User, I would like to be able to enter my email adress, so I can subcribe to the websites news letter.
+- As a User, I would like to be able to enter my email address, so I can subscribe to the website's newsletter.
 
-- I would like a list of business bartners with Gotham City.
+- I would like a list of business partners with Gotham City.
 
 - As a User, I would like a link to the Gotham Zoo website, so I can go to the Gotham Zoo website.
 - As a User, I would like a link to the Silver Lake Shopping Plaza website, so I can go to the Silver Lake Shopping Plaza website.
@@ -88,8 +91,8 @@ User Stories
 - As a User, I would like a link to the Wayne Enterprises website, so I can go to the Wayne Enterprises website.
 - As a User, I would like a scroll up feature at the bottom of each page, so I am able to go back to the top of the page.
 - As a User, I would like the City Info page to include a link to a map of Gotham City, so I can download a copy for myself.
-- As a User, on the City Info page I would like links to contact numbers and addresses, that are useful for when im visitng the city.
-- As a User, I would like the websites layout to be responsive, so I can visit the website on different smart devices. 
+- As a User, on the City Info page I would like links to contact numbers and addresses that are useful for when I'm visiting the city.
+- As a User, I would like the website's layout to be responsive, so I can visit the website on different smart devices. 
 
 Wireframe
 ---------
@@ -101,65 +104,65 @@ I used Adobe Photoshop to create wireframes in desktop, tablet and phone view.
 Features
 ========
 
-Exisiting Features
+Existing Features
 ------------------
 All 4 pages have a fixed navigation bar that allows you at any point to go to each page. They also have the same footer, consisting of a Contact Us section, links to the 
 websites social media platforms, a Newsletter sign up feature, links to the City's Business Partners and a scroll to top feature that allows the user to pop straight back 
 to the top of the page. 
-I used the font Ubuntu through out the website, which has a 
+I used the font Ubuntu throughout the website, which has a 
 simple and clean look to it. Each Page also has a hero (or) banner image at the top with a title. I wanted a consistent start to each page, but then change each way the 
-information is presented whilst keeping it inline with the style of website. The color scheme of the website was is a mix of Black, Gray and White. Which suits the gothic 
-feel of the City. I would then use accents of dark red and dark green to higlhight certain links or features. As well as yellow, mainly for sections to do with Batman in 
+information is presented whilst keeping it inline with the style of website. The colour scheme of the website was is a mix of Black, Gray and White, which suits the Gothic 
+feel of the City. I would then use accents of dark red and dark green to highlight certain links or features, as well as yellow, mainly for sections to do with Batman in 
 order to signify these sections as special interest.
 
 ## [Landing Page](https://liamoconnor87.github.io/VisitGotham/index.html)
 
 Top of the landing page has a hero image which is a distant view of the Gotham City. This is representing the idea of space between the user and Gotham. 
-As you go down the page you see Gotham's slogan - "Your origin story starts here". This is designed to inspire the user further to choose Gotham as a 
+As you go down the page you see Gotham's slogan; 'Your origin story starts here'. This is designed to inspire the user further to choose Gotham as a 
 destination and to sell you the idea of a great adventure, a story you could tell. As well as allude to Gotham's past hero's and deliberately make the user align 
-themseleves with them. 
+themselves with them. 
 
 The first section you come to is titled Things to do. It displays examples of things you can do in the city as a picture with a title underneath in a grid format. Each 
-image and title links to that section on the Things To DO page. When you hover over the titles the colour changes from gray and white to black and white. Except for 
-the Batman Memorial which goes from gray and white to black and yellow.
+image and title links to that section on the Things To Do page. When you hover over the titles the colour changes from grey and white to black and white. Except for 
+the Batman Memorial which goes from grey and white to black and yellow.
 
 After this is a second banner image, designed to show case the city again visually with some interesting architecture, but also show a divide between the first and second section. 
 
 The second section is titled City Info. This displays a series of links to certain sections on the City Info page. For consistency again displayed in a grid format in dark 
 green and white, and as you hover over the title changes to black and white. 
 
-After this is the footer signifying the end of the page. 
+At the bottom is the footer signifying the end of the page. 
 
 ## [Things To Do Page](https://liamoconnor87.github.io/VisitGotham/things_to_do.html)
 
-At the top of the page it has a hero image which is a bird's eye view of two people kayaking down one of Gotham's rivers on St Patricks day. The water is green, its an interesting 
-image that intices the user to continue down the page to learn about things you can do in the city. The green of the image also stays consistent with the colour scheme of the website.
+At the top of the page it has a hero image which is a bird's eye view of two people kayaking down one of Gotham's rivers on St Patrick's day. The water is green, its an interesting 
+image that entices the user to continue down the page to learn about things you can do in the city. The green of the image also stays consistent with the colour scheme of the website.
 
 The title of the page Things To Do follows underneath as a way of reaffirming the users interest and what the page is about. 
 
-The next section is broken up into nine categories with a brief desciption of things you can do in the city. These sections are the same as the landing page. Each catergory alternate 
-in presentation. At desktop view go the first catergory is displayed with the image on the left with information to the right in gray and white. This presnetation of the second catergory 
-is alternated to image on the right with the information on the left now in black and white. This style atlernates between these layouts and colours with each catergory as you go down 
+The next section is broken up into nine categories with a brief description of things you can do in the city. These sections are the same as the landing page. Each category alternate 
+in presentation. At desktop view go the first category is displayed with the image on the left with information to the right in grey and white. This presentation of the second category 
+is alternated to image on the right with the information on the left now in black and white. This style alternates between these layouts and colours with each category as you go down 
 the page. Once again to signify it's on individual importance, when you reach The Batman Memorial section. The colour scheme changes to black and yellow. 
 
-After this is the footer signifying the end of the page.
+At the bottom is the footer signifying the end of the page. 
 
 ## [City Info Page](https://liamoconnor87.github.io/VisitGotham/city_info.html)
-At the top of the page it has a hero image of Gotham City's Town Hall. This is to represent a more offical or serious consideration when the user is on this page. 
+At the top of the page it has a hero image of Gotham City's Town Hall. This is to represent a more official or serious consideration when the user is on this page. 
 The title of the page, City Information follows underneath as a way of reaffirming the users interest and what the page is about. 
 
 Following the title is a short official statement from the City on Covid-19. It is highlighted in red and white and covers the width of the page. This is 
 designed to give it more relevance and importance for the user to see it.
 
-Next is the City Information section. Its in an article format with a gray background and black font. This is to convey the information in a more serious tone and 'matter of fact' 
+Next is the City Information section. It's in an article format with a grey background and black font. This is to convey the information in a more serious tone and 'matter of fact' 
 and is broken up into paragraphs that are easily readable for the user. 
 In this section you also have links to other helpful material and phone numbers that the user might need when visiting Gotham. 
 
-After this is the footer signifying the end of the page.
+At the bottom is the footer signifying the end of the page. 
 
 ## [History Page](https://liamoconnor87.github.io/VisitGotham/history.html)
-At the top of the page it has a hero image of Gotham City taken from Arkham Bridge. As this a page on Gotham's history this image of the skyline with cranes gave a good 
-representation of Gotham contineous improvement from its dark past. 
+At the top of the page it has a hero image of Gotham City taken from Arkham Bridge, as this a page on Gotham's history this image of the skyline with cranes gave a good 
+representation of Gotham continuous improvement from its dark past. 
 The title of the page, Gotham's History follows underneath as a way of reaffirming the users interest and what the page is about.
 
 Underneath this the page is broken into the following 5 categories;
@@ -169,14 +172,14 @@ Underneath this the page is broken into the following 5 categories;
 - 20th Century
 - Legend of Batman. 
 
-Each paragraph is broken up with images alternating in there postion as you go down the page as well as the paragraphs changing background colour from gray to black with white font. 
-Of course when the user comes to the Legend of Batman section the background is yellow and the font is black. Again to highlight its significance. All the images correlate with there related information. 
-Ie - Legend of Batman having photosnaps of Batman in the city. 
+Each paragraph is broken up with images alternating in there position as you go down the page as well as the paragraphs changing background colour from grey to black with white font. 
+Of course when the user comes to the Legend of Batman section the background is yellow and the font is black. Again to highlight its significance. All the images correlate with there 
+related information. For example; Legend of Batman section has images of Batman. 
 
-After this is the footer signifying the end of the page.
+At the bottom is the footer signifying the end of the page. 
 
 ## [Gotham City Map Preview](https://liamoconnor87.github.io/VisitGotham/gotham_map.html)
-This page simply displays a preview Map of Gotham City. To signify this, the image is centered on the page titled with Gotham City Map with a gray background behind it. 
+This page simply displays a preview Map of Gotham City. To signify this, the image is centred on the page titled with Gotham City Map with a grey background behind it. 
 It has two features. A Return link to go back to the previous page and a download link so the user can keep copy should they visit. 
 
 
@@ -188,15 +191,15 @@ Technologies Used
 
 [CSS](https://www.w3.org/Style/CSS) - The project uses CSS to style the websites pages.
 
-[Google Fonts](https://fonts.google.com) - The poject uses this for a font on the website.
+[Google Fonts](https://fonts.google.com) - The project uses this for a font on the website.
 
-[Fontawesome](https://fontawesome.com) - The project uses this for some icons from this Library to style some of the website.
+[Fontawesome](https://fontawesome.com) - The project uses this for some icons for the website.
 
 [Git](https://git-scm.com) - The project uses to Git to push the project on to the Github repository.
 
-[Github](https://github.com) - The project uses Github repository to store the website.
+[GitHub](https://github.com) - The project uses GitHub repository to store the website.
 
-[Github Pages](https://pages.github.com) - The project uses Github pages to host the website.
+[GitHub Pages](https://pages.github.com) - The project uses GitHub pages to host the website.
 
 [Gitpod](https://gitpod.io) - The project uses Gitpod IDE to facilitate building the website.
 
@@ -217,7 +220,7 @@ Is on a seperate document - [testing.md](testing.md)
 Deployment
 ==========
 
-Github Pages was used to deploy this website. In order to do this you will need to take the following steps;
+GitHub Pages were used to deploy this website, in order to do this you will need to take the following steps;
 
 >1. Go to the GitHub repository.
 >![image](README_files/images/repo.png)
@@ -226,7 +229,7 @@ Github Pages was used to deploy this website. In order to do this you will need 
 >3. Scroll down to the GitHub Pages section and change the source tab from **None** to **master branch**.
 >![image](README_files/images/masterbranch.png)
 >4. This will automatically refresh the page to update the changes.
->5. Scroll back down to the GitHub Pages section to find the address to your new published website. It should look similar to this. 
+>5. Scroll back down to the GitHub Pages section to find the address to your new published website. The page should look similar to this. 
 >![image](README_files/images/confirm-pub.png)
 
 >6. Clicking on the link should take you to the hosted website. **Hazar!**
@@ -234,7 +237,7 @@ Github Pages was used to deploy this website. In order to do this you will need 
 Running Code Locally
 --------------------
 >1. Go to GitHub Repositry. -https://github.com/liamoconnor87/VisitGotham
->2. Click on the **Clone or Download** button in **green** and and copy the URL link to the repository in the address box - https://github.com/liamoconnor87/VisitGotham.git
+>2. Click on the **Clone or Download** button in **green** and copy the URL link to the repository in the address box - https://github.com/liamoconnor87/VisitGotham.git
 >![image](README_files/images/dwnld-repo.png)
 >3. Head into your terminal and **cd** to the path where you would like to clone the repository.
 >4. Type into terminal - **git clone https://github.com/liamoconnor87/VisitGotham.git**. This should download your repository to your designated folder.
@@ -258,7 +261,7 @@ Content
 - The text for the City Information page was copied and edited from the [NYCgo Basic Information page](https://www.nycgo.com/plan-your-trip/basic-information/)
 - The text for the History page was copied and edited from the [DC Fandom Gotham City page](https://https://dc.fandom.com/wiki/Gotham_City/)
 - The CSS flex feature used in the layout of website was from the tutorials on [W3Schools](https://www.w3schools.com)
-- The form feature used in this was taken and adapted from the Code Institue Exercise "Love Running" [Code Institue](codeinstitute.net/)
+- The form feature used in this was taken and adapted from the Code Institute Exercise 'Love Running' [Code Institute](codeinstitute.net/)
 
 Media
 -----
@@ -275,7 +278,7 @@ The photos used in this site were obtained from the following;
 - Activities image for Index and Things To Do page from [Neighborhoods](https://www.neighborhoods.com/blog/6-winter-outdoor-activities-and-where-to-do-them-around-chicago)
 - Sightseeing image for Index and Things To Do page from [Destination 360](http://www.destination360.com/north-america/us/illinois/chicago/chicago-tours)
 - Park & Recreation image for Index and Things To Do page from [Traveldigg](https://traveldigg.com/the-fascination-of-hyde-park-london-england/)
-- Nightlife image for Index and Things To Do page from [Dancing Astonaut](https://dancingastronaut.com/2019/01/new-york-nightlife-sector-unsurprisingly-booming-according-new-economic-impact-study-city-nightlife-mayors-office/)
+- Nightlife image for Index and Things To Do page from [Dancing Astronaut](https://dancingastronaut.com/2019/01/new-york-nightlife-sector-unsurprisingly-booming-according-new-economic-impact-study-city-nightlife-mayors-office/)
 - Bars & Restaurants image for Index and Things To Do page from [Asia-Bars](https://www.asia-bars.com/wp-content/uploads/2013/07/catalunya-hong-kong-7.jpg)
 - The Batman Memorial image for Index and Things To Do page from [Comic Book Movie](http://images.fandango.com/MDCsite/images/featured/201211/tdkr-batman-statue.jpg)
 - Monarch Theatre Logo from the Business Partner Section is from [Editing Luke](http://www.editingluke.net/2009/10/monarch-theatre-project-medicine-hat.html)
@@ -283,7 +286,7 @@ The photos used in this site were obtained from the following;
 - The Dutch Navy Image is from [Retro Richie's Youtube file found on google image search](https://i.ytimg.com/vi/wBFHpG9AGzg/maxresdefault.jpg)
 - The image of Henry Hudson is from [History.com](https://www.history.com/topics/exploration/henry-hudson)
 - The image of 19th Century New York City is from [Things I Enjoy](http://thethingsienjoy.blogspot.com/2012/08/three-busy-port-cities-in-late-19th.html)
-- The image of 19th Century Judge is from [Skiner Inc.](https://www.skinnerinc.com/auctions/2513/lots/730)
+- The image of 19th Century Judge is from [Skinner Inc.](https://www.skinnerinc.com/auctions/2513/lots/730)
 - The image of 20th Century criminals is from [Vintage Everyday](https://3.bp.blogspot.com/-NpA8LEE7kME/WNwGxVs-dqI/AAAAAAACn4E/p2koovkHGGAJu4c-LylNxKFT5DukPPOrgCLcB/s1600/american-gangsters-1920s-30s-4.jpeg)
 - The image of the other 20th Century criminals is from [Hypness](https://www.hypeness.com.br/2017/04/serie-de-fotos-em-pb-capta-a-experiencia-de-ser-negro-na-chicago-dos-anos-1940/)
 - The image of Batman flying is from [Gizmodo](https://www.gizmodo.co.uk/2012/07/science-shows-that-flying-using-batmans-cape-would-definitely-kill-you/)
@@ -291,7 +294,7 @@ The photos used in this site were obtained from the following;
 
 Acknowledgements
 ----------------
-- I recieved inspiration for this project from [Visit New York](https://www.visitnewyork.com)
-- I recieved inspiration for this project from [NYCgo](https://www.nycgo.com)
-- I recieved inspiration for this project from [Central Park Zoo](https://centralparkzoo.com)
-- I recieved mentorship on this project from [Precious "Jedi Master" Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/)
+- I received inspiration for this project from [Visit New York](https://www.visitnewyork.com)
+- I received inspiration for this project from [NYCgo](https://www.nycgo.com)
+- I received inspiration for this project from [Central Park Zoo](https://centralparkzoo.com)
+- I received mentorship on this project from [Precious 'Jedi Master' Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/)
