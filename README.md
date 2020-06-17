@@ -97,7 +97,8 @@ User Stories
 Wireframe
 ---------
 I used Adobe Photoshop to create wireframes in desktop, tablet and phone view.
-**add links**
+[Link](README_files/mock-ups)
+
 
 
 
