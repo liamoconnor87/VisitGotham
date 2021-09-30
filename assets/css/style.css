@@ -61,6 +61,29 @@ body{
 
 /* End of Header - Logo & Navigation Bar */
 
+/* CREATED BY WEBDEVLIAM */
+.created-by{
+    display: flex;
+    color: inherit;
+    width: 100%;
+    padding-bottom: 10px;
+    color: white;
+    padding-left: 10px;
+}
+
+.created-by p{
+    margin: auto auto auto 0;
+    font-size: 10px;
+}
+.created-by a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.liam-link:hover{
+    text-decoration: underline;
+}
+
 /* Footer */
 
 footer{
